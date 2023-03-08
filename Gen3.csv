@@ -1,0 +1,355 @@
+Name|Type|Category|Effect|Power|Accuracy|Probability|Generation
+Absorb|Grass|Special|User recovers half the HP inflicted on opponent.|20|100|-|1
+Acid|Poison|Physical|May lower opponent's Special Defense.|40|100|10|1
+Acid Armor|Poison|Status|Sharply raises user's Defense.|-|-|-|1
+Aerial Ace|Flying|Physical|Ignores Accuracy and Evasiveness.|60|∞|-|3
+Aeroblast|Flying|Physical|High critical hit ratio.|100|95|-|2
+Agility|Psychic|Status|Sharply raises user's Speed.|-|-|-|1
+Air Cutter|Flying|Physical|High critical hit ratio.|60|95|-|3
+Amnesia|Psychic|Status|Sharply raises user's Special Defense.|-|-|-|1
+Ancient Power|Rock|Physical|May raise all user's stats at once.|60|100|10|2
+Arm Thrust|Fighting|Physical|Hits 2-5 times in one turn.|15|100|-|3
+Aromatherapy|Grass|Status|Cures all status problems in your party.|-|-|-|3
+Assist|Normal|Status|User performs a move known by its allies at random.|-|-|-|3
+Astonish|Ghost|Physical|May cause flinching.|30|100|30|3
+Attract|Normal|Status|If opponent is the opposite gender, it's less likely to attack.|-|100|-|2
+Aurora Beam|Ice|Special|May lower opponent's Attack.|65|100|10|1
+Barrage|Normal|Physical|Hits 2-5 times in one turn.|15|85|-|1
+Barrier|Psychic|Status|Sharply raises user's Defense.|-|-|-|1
+Baton Pass|Normal|Status|User switches out and gives stat changes to the incoming Pokémon.|-|-|-|2
+Beat Up|Dark|Special|Each Pokémon in your party attacks.|-|100|-|2
+Belly Drum|Normal|Status|User loses 50% of its max HP, but Attack raises to maximum.|-|-|-|2
+Bide|Normal|Physical|User takes damage for two turns then strikes back double.|-|-|-|1
+Bind|Normal|Physical|Traps opponent, damaging them for 4-5 turns.|15|85|-|1
+Bite|Dark|Special|May cause flinching.|60|100|30|1
+Blast Burn|Fire|Special|User must recharge next turn.|150|90|-|3
+Blaze Kick|Fire|Special|High critical hit ratio. May burn opponent.|85|90|10|3
+Blizzard|Ice|Special|May freeze opponent.|110|70|10|1
+Block|Normal|Status|Opponent cannot flee or switch.|-|-|-|3
+Body Slam|Normal|Physical|May paralyze opponent.|85|100|30|1
+Bone Club|Ground|Physical|May cause flinching.|65|85|10|1
+Bone Rush|Ground|Physical|Hits 2-5 times in one turn.|25|90|-|2
+Bonemerang|Ground|Physical|Hits twice in one turn.|50|90|-|1
+Bounce|Flying|Physical|Springs up on first turn, attacks on second. May paralyze opponent.|85|85|30|3
+Brick Break|Fighting|Physical|Breaks through Reflect and Light Screen barriers.|75|100|-|3
+Bubble|Water|Special|May lower opponent's Speed.|40|100|10|1
+Bubble Beam|Water|Special|May lower opponent's Speed.|65|100|10|1
+Bulk Up|Fighting|Status|Raises user's Attack and Defense.|-|-|-|3
+Bullet Seed|Grass|Special|Hits 2-5 times in one turn.|25|100|-|3
+Calm Mind|Psychic|Status|Raises user's Special Attack and Special Defense.|-|-|-|3
+Camouflage|Normal|Status|Changes user's type according to the location.|-|-|-|3
+Charge|Electric|Status|Raises user's Special Defense and next Electric move's power increases.|-|-|-|3
+Charm|Fairy|Status|Sharply lowers opponent's Attack.|-|100|-|2
+Clamp|Water|Special|Traps opponent, damaging them for 4-5 turns.|35|85|-|1
+Comet Punch|Normal|Physical|Hits 2-5 times in one turn.|18|85|-|1
+Confuse Ray|Ghost|Status|Confuses opponent.|-|100|-|1
+Confusion|Psychic|Special|May confuse opponent.|50|100|10|1
+Constrict|Normal|Physical|May lower opponent's Speed by one stage.|10|100|10|1
+Conversion|Normal|Status|Changes user's type to that of its first move.|-|-|-|1
+Conversion 2|Normal|Status|User changes type to become resistant to opponent's last move.|-|-|-|2
+Cosmic Power|Psychic|Status|Raises user's Defense and Special Defense.|-|-|-|3
+Cotton Spore|Grass|Status|Sharply lowers opponent's Speed.|-|100|-|2
+Counter|Fighting|Physical|When hit by a Physical Attack, user strikes back with 2x power.|-|100|-|1
+Covet|Normal|Physical|Opponent's item is stolen by the user.|60|100|-|3
+Crabhammer|Water|Special|High critical hit ratio.|100|90|-|1
+Cross Chop|Fighting|Physical|High critical hit ratio.|100|80|-|2
+Crunch|Dark|Special|May lower opponent's Defense.|80|100|20|2
+Crush Claw|Normal|Physical|May lower opponent's Defense.|75|95|50|3
+Curse|Ghost|Status|Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.|-|-|-|2
+Cut|Normal|Physical||50|95|-|1
+Defense Curl|Normal|Status|Raises user's Defense.|-|-|-|1
+Destiny Bond|Ghost|Status|If the user faints, the opponent also faints.|-|-|-|2
+Detect|Fighting|Status|Protects the user, but may fail if used consecutively.|-|-|-|2
+Dig|Ground|Physical|Digs underground on first turn, attacks on second. Can also escape from caves.|80|100|-|1
+Disable|Normal|Status|Opponent can't use its last attack for a few turns.|-|100|-|1
+Dive|Water|Special|Dives underwater on first turn, attacks on second turn.|80|100|-|3
+Dizzy Punch|Normal|Physical|May confuse opponent.|70|100|20|1
+Doom Desire|Steel|Physical|Damage occurs 2 turns later.|140|100|-|3
+Double Kick|Fighting|Physical|Hits twice in one turn.|30|100|-|1
+Double Slap|Normal|Physical|Hits 2-5 times in one turn.|15|85|-|1
+Double Team|Normal|Status|Raises user's Evasiveness.|-|-|-|1
+Double-Edge|Normal|Physical|User receives recoil damage.|120|100|-|1
+Dragon Breath|Dragon|Special|May paralyze opponent.|60|100|30|2
+Dragon Claw|Dragon|Special||80|100|-|3
+Dragon Dance|Dragon|Status|Raises user's Attack and Speed.|-|-|-|3
+Dragon Rage|Dragon|Special|Always inflicts 40 HP.|-|100|-|1
+Dream Eater|Psychic|Special|User recovers half the HP inflicted on a sleeping opponent.|100|100|-|1
+Drill Peck|Flying|Physical||80|100|-|1
+Dynamic Punch|Fighting|Physical|Confuses opponent.|100|50|100|2
+Earthquake|Ground|Physical|Power is doubled if opponent is underground from using Dig.|100|100|-|1
+Egg Bomb|Normal|Physical||100|75|-|1
+Ember|Fire|Special|May burn opponent.|40|100|10|1
+Encore|Normal|Status|Forces opponent to keep using its last move for 3 turns.|-|100|-|2
+Endeavor|Normal|Physical|Reduces opponent's HP to same as user's.|-|100|-|3
+Endure|Normal|Status|Always left with at least 1 HP, but may fail if used consecutively.|-|-|-|2
+Eruption|Fire|Status|Stronger when the user's HP is higher.|150|100|-|3
+Explosion|Normal|Physical|User faints.|250|100|-|1
+Extrasensory|Psychic|Special|May cause flinching.|80|100|10|3
+Extreme Speed|Normal|Physical|User attacks first.|80|100|-|2
+Facade|Normal|Physical|Power doubles if user is burned, poisoned, or paralyzed.|70|100|-|3
+Fake Out|Normal|Physical|User attacks first, foe flinches. Only usable on first turn.|40|100|100|3
+Fake Tears|Dark|Status|Sharply lowers opponent's Special Defense.|-|100|-|3
+False Swipe|Normal|Physical|Always leaves opponent with at least 1 HP.|40|100|-|2
+Feather Dance|Flying|Status|Sharply lowers opponent's Attack.|-|100|-|3
+Feint Attack|Dark|Special|Ignores Accuracy and Evasiveness.|60|∞|-|2
+Fire Blast|Fire|Special|May burn opponent.|110|85|10|1
+Fire Punch|Fire|Special|May burn opponent.|75|100|10|1
+Fire Spin|Fire|Special|Traps opponent, damaging them for 4-5 turns.|35|85|-|1
+Fissure|Ground|Physical|One-Hit-KO, if it hits.|-|-|-|1
+Flail|Normal|Physical|The lower the user's HP, the higher the power.|-|100|-|2
+Flame Wheel|Fire|Special|May burn opponent.|60|100|10|2
+Flamethrower|Fire|Special|May burn opponent.|90|100|10|1
+Flash|Normal|Status|Lowers opponent's Accuracy.|-|100|-|1
+Flatter|Dark|Status|Confuses opponent, but raises its Special Attack by two stages.|-|100|-|3
+Fly|Flying|Physical|Flies up on first turn, attacks on second turn.|90|95|-|1
+Focus Energy|Normal|Status|Increases critical hit ratio.|-|-|-|1
+Focus Punch|Fighting|Physical|If the user is hit before attacking, it flinches instead.|150|100|-|3
+Follow Me|Normal|Status|In Double Battle, the user takes all the attacks.|-|-|-|3
+Foresight|Normal|Status|Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.|-|-|-|2
+Frenzy Plant|Grass|Special|User must recharge next turn.|150|90|-|3
+Frustration|Normal|Physical|Power decreases with higher Friendship.|-|100|-|2
+Fury Attack|Normal|Physical|Hits 2-5 times in one turn.|15|85|-|1
+Fury Cutter|Bug|Physical|Power increases each turn.|40|95|-|2
+Fury Swipes|Normal|Physical|Hits 2-5 times in one turn.|18|80|-|1
+Future Sight|Psychic|Special|Damage occurs 2 turns later.|120|100|-|2
+Giga Drain|Grass|Status|User recovers half the HP inflicted on opponent.|75|100|-|2
+Glare|Normal|Status|Paralyzes opponent.|-|100|-|1
+Grass Whistle|Grass|Status|Puts opponent to sleep.|-|55|-|3
+Growl|Normal|Status|Lowers opponent's Attack.|-|100|-|1
+Growth|Normal|Status|Raises user's Attack and Special Attack.|-|-|-|1
+Grudge|Ghost|Status|If the users faints after using this move, the PP for the opponent's last move is depleted.|-|-|-|3
+Guillotine|Normal|Physical|One-Hit-KO, if it hits.|-|-|-|1
+Gust|Flying|Physical|Hits Pokémon using Fly/Bounce with double power.|40|100|-|1
+Hail|Ice|Status|Non-Ice types are damaged for 5 turns.|-|-|-|3
+Harden|Normal|Status|Raises user's Defense.|-|-|-|1
+Haze|Ice|Status|Resets all stat changes.|-|-|-|1
+Headbutt|Normal|Physical|May cause flinching.|70|100|30|1
+Heal Bell|Normal|Status|Heals the user's party's status conditions.|-|-|-|2
+Heat Wave|Fire|Special|May burn opponent.|95|90|10|3
+Helping Hand|Normal|Status|In Double Battles, boosts the power of the partner's move.|-|-|-|3
+Hidden Power|Normal|Physical|Type and power depends on user's IVs.|60|100|-|2
+High Jump Kick|Fighting|Physical|If it misses, the user loses half their HP.|130|90|-|1
+Horn Attack|Normal|Physical||65|100|-|1
+Horn Drill|Normal|Physical|One-Hit-KO, if it hits.|-|-|-|1
+Howl|Normal|Status|Raises user's Attack.|-|-|-|3
+Hydro Cannon|Water|Special|User must recharge next turn.|150|90|-|3
+Hydro Pump|Water|Special||110|80|-|1
+Hyper Beam|Normal|Physical|User must recharge next turn.|150|90|-|1
+Hyper Fang|Normal|Physical|May cause flinching.|80|90|10|1
+Hyper Voice|Normal|Physical||90|100|-|3
+Hypnosis|Psychic|Status|Puts opponent to sleep.|-|60|-|1
+Ice Ball|Ice|Special|Doubles in power each turn for 5 turns.|30|90|-|3
+Ice Beam|Ice|Special|May freeze opponent.|90|100|10|1
+Ice Punch|Ice|Special|May freeze opponent.|75|100|10|1
+Icicle Spear|Ice|Special|Hits 2-5 times in one turn.|25|100|-|3
+Icy Wind|Ice|Special|Lowers opponent's Speed.|55|95|100|2
+Imprison|Psychic|Status|Opponent is unable to use moves that the user also knows.|-|-|-|3
+Ingrain|Grass|Status|User restores HP each turn. User cannot escape/switch.|-|-|-|3
+Iron Defense|Steel|Status|Sharply raises user's Defense.|-|-|-|3
+Iron Tail|Steel|Physical|May lower opponent's Defense.|100|75|10|2
+Jump Kick|Fighting|Physical|If it misses, the user loses half their HP.|100|95|-|1
+Karate Chop|Fighting|Physical|High critical hit ratio.|50|100|-|1
+Kinesis|Psychic|Status|Lowers opponent's Accuracy.|-|80|-|1
+Knock Off|Dark|Special|Removes opponent's held item for the rest of the battle.|65|100|-|3
+Leaf Blade|Grass|Special|High critical hit ratio.|90|100|-|3
+Leech Life|Bug|Physical|User recovers half the HP inflicted on opponent.|80|100|-|1
+Leech Seed|Grass|Status|Drains HP from opponent each turn.|-|90|-|1
+Leer|Normal|Status|Lowers opponent's Defense.|-|100|-|1
+Lick|Ghost|Physical|May paralyze opponent.|30|100|30|1
+Light Screen|Psychic|Status|Halves damage from Special attacks for 5 turns.|-|-|-|1
+Lock-On|Normal|Status|User's next attack is guaranteed to hit.|-|-|-|2
+Lovely Kiss|Normal|Status|Puts opponent to sleep.|-|75|-|1
+Low Kick|Fighting|Physical|The heavier the opponent, the stronger the attack.|-|100|-|1
+Luster Purge|Psychic|Special|May lower opponent's Special Defense.|70|100|50|3
+Mach Punch|Fighting|Physical|User attacks first.|40|100|-|2
+Magic Coat|Psychic|Status|Reflects moves that cause status conditions back to the attacker.|-|-|-|3
+Magical Leaf|Grass|Special|Ignores Accuracy and Evasiveness.|60|∞|-|3
+Magnitude|Ground|Physical|Hits with random power.|-|100|-|2
+Mean Look|Normal|Status|Opponent cannot flee or switch.|-|-|-|2
+Meditate|Psychic|Status|Raises user's Attack.|-|-|-|1
+Mega Drain|Grass|Special|User recovers half the HP inflicted on opponent.|40|100|-|1
+Mega Kick|Normal|Physical||120|75|-|1
+Mega Punch|Normal|Physical||80|85|-|1
+Megahorn|Bug|Physical||120|85|-|2
+Memento|Dark|Status|User faints, sharply lowers opponent's Attack and Special Attack.|-|100|-|3
+Metal Claw|Steel|Physical|May raise user's Attack.|50|95|10|2
+Metal Sound|Steel|Status|Sharply lowers opponent's Special Defense.|-|85|-|3
+Meteor Mash|Steel|Physical|May raise user's Attack.|90|90|20|3
+Metronome|Normal|Status|User performs almost any move in the game at random.|-|-|-|1
+Milk Drink|Normal|Status|User recovers half its max HP.|-|-|-|2
+Mimic|Normal|Status|Copies the opponent's last move.|-|-|-|1
+Mind Reader|Normal|Status|User's next attack is guaranteed to hit.|-|-|-|2
+Minimize|Normal|Status|Sharply raises user's Evasiveness.|-|-|-|1
+Mirror Coat|Psychic|Special|When hit by a Special Attack, user strikes back with 2x power.|-|100|-|2
+Mirror Move|Flying|Status|User performs the opponent's last move.|-|-|-|1
+Mist|Ice|Status|User's stats cannot be changed for a period of time.|-|-|-|1
+Mist Ball|Psychic|Status|May lower opponent's Special Attack.|70|100|50|3
+Moonlight|Fairy|Status|User recovers HP. Amount varies with the weather.|-|-|-|2
+Morning Sun|Normal|Status|User recovers HP. Amount varies with the weather.|-|-|-|2
+Mud Shot|Ground|Physical|Lowers opponent's Speed.|55|95|100|3
+Mud Sport|Ground|Status|Weakens the power of Electric-type moves.|-|-|-|3
+Muddy Water|Water|Special|May lower opponent's Accuracy.|90|85|30|3
+Mud-Slap|Ground|Physical|Lowers opponent's Accuracy.|20|100|100|2
+Nature Power|Normal|Status|Uses a certain move based on the current terrain.|-|-|-|3
+Needle Arm|Grass|Special|May cause flinching.|60|100|30|3
+Night Shade|Ghost|Physical|Inflicts damage equal to user's level.|-|100|-|1
+Nightmare|Ghost|Status|The sleeping opponent loses 25% of its max HP each turn.|-|100|-|2
+Octazooka|Water|Special|May lower opponent's Accuracy.|65|85|50|2
+Odor Sleuth|Normal|Status|Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.|-|-|-|3
+Outrage|Dragon|Special|User attacks for 2-3 turns but then becomes confused.|120|100|-|2
+Overheat|Fire|Special|Sharply lowers user's Special Attack.|130|90|-|3
+Pain Split|Normal|Status|The user's and opponent's HP becomes the average of both.|-|-|-|2
+Pay Day|Normal|Physical|A small amount of money is gained after the battle resolves.|40|100|-|1
+Peck|Flying|Physical||35|100|-|1
+Perish Song|Normal|Status|Any Pokémon in play when this attack is used faints in 3 turns.|-|-|-|2
+Petal Dance|Grass|Special|User attacks for 2-3 turns but then becomes confused.|120|100|-|1
+Pin Missile|Bug|Physical|Hits 2-5 times in one turn.|25|95|-|1
+Poison Fang|Poison|Physical|May badly poison opponent.|50|100|50|3
+Poison Gas|Poison|Status|Poisons opponent.|-|90|-|1
+Poison Powder|Poison|Status|Poisons opponent.|-|75|-|1
+Poison Sting|Poison|Physical|May poison the opponent.|15|100|30|1
+Poison Tail|Poison|Physical|High critical hit ratio. May poison opponent.|50|100|10|3
+Pound|Normal|Physical||40|100|-|1
+Powder Snow|Ice|Special|May freeze opponent.|40|100|10|2
+Present|Normal|Physical|Either deals damage or heals.|-|90|-|2
+Protect|Normal|Status|Protects the user, but may fail if used consecutively.|-|-|-|2
+Psybeam|Psychic|Special|May confuse opponent.|65|100|10|1
+Psych Up|Normal|Status|Copies the opponent's stat changes.|-|-|-|2
+Psychic|Psychic|Status|May lower opponent's Special Defense.|90|100|10|1
+Psycho Boost|Psychic|Special|Sharply lowers user's Special Attack.|140|90|-|3
+Psywave|Psychic|Special|Inflicts damage 50-150% of user's level.|-|80|-|1
+Pursuit|Dark|Special|Double power if the opponent is switching out.|40|100|-|2
+Quick Attack|Normal|Physical|User attacks first.|40|100|-|1
+Rage|Normal|Physical|Raises user's Attack when hit.|20|100|-|1
+Rain Dance|Water|Status|Makes it rain for 5 turns.|-|-|-|2
+Rapid Spin|Normal|Physical|Removes effects of trap moves.|20|100|-|2
+Razor Leaf|Grass|Special|High critical hit ratio.|55|95|-|1
+Razor Wind|Normal|Physical|Charges on first turn, attacks on second. High critical hit ratio.|80|100|-|1
+Recover|Normal|Status|User recovers half its max HP.|-|-|-|1
+Recycle|Normal|Status|User's used hold item is restored.|-|-|-|3
+Reflect|Psychic|Status|Halves damage from Physical attacks for 5 turns.|-|-|-|1
+Refresh|Normal|Status|Cures paralysis, poison, and burns.|-|-|-|3
+Rest|Psychic|Status|User sleeps for 2 turns, but user is fully healed.|-|-|-|1
+Return|Normal|Physical|Power increases with higher Friendship.|-|100|-|2
+Revenge|Fighting|Physical|Power increases if user was hit first.|60|100|-|3
+Reversal|Fighting|Physical|The lower the user's HP, the higher the power.|-|100|-|2
+Roar|Normal|Status|In battles, the opponent switches. In the wild, the Pokémon runs.|-|-|-|1
+Rock Blast|Rock|Physical|Hits 2-5 times in one turn.|25|90|-|3
+Rock Slide|Rock|Physical|May cause flinching.|75|90|30|1
+Rock Smash|Fighting|Physical|May lower opponent's Defense.|40|100|50|2
+Rock Throw|Rock|Physical||50|90|-|1
+Rock Tomb|Rock|Physical|Lowers opponent's Speed.|60|95|100|3
+Role Play|Psychic|Status|User copies the opponent's Ability.|-|-|-|3
+Rolling Kick|Fighting|Physical|May cause flinching.|60|85|30|1
+Rollout|Rock|Physical|Doubles in power each turn for 5 turns.|30|90|-|2
+Sacred Fire|Fire|Special|May burn opponent.|100|95|50|2
+Safeguard|Normal|Status|The user's party is protected from status conditions.|-|-|-|2
+Sand Attack|Ground|Status|Lowers opponent's Accuracy.|-|100|-|1
+Sand Tomb|Ground|Physical|Traps opponent, damaging them for 4-5 turns.|35|85|-|3
+Sandstorm|Rock|Status|Creates a sandstorm for 5 turns.|-|-|-|2
+Scary Face|Normal|Status|Sharply lowers opponent's Speed.|-|100|-|2
+Scratch|Normal|Physical||40|100|-|1
+Screech|Normal|Status|Sharply lowers opponent's Defense.|-|85|-|1
+Secret Power|Normal|Physical|Effects of the attack vary with the location.|70|100|30|3
+Seismic Toss|Fighting|Physical|Inflicts damage equal to user's level.|-|100|-|1
+Self-Destruct|Normal|Physical|User faints.|200|100|-|1
+Shadow Ball|Ghost|Physical|May lower opponent's Special Defense.|80|100|20|2
+Shadow Punch|Ghost|Physical|Ignores Accuracy and Evasiveness.|60|∞|-|3
+Sharpen|Normal|Status|Raises user's Attack.|-|-|-|1
+Sheer Cold|Ice|Special|One-Hit-KO, if it hits.|-|-|-|3
+Shock Wave|Electric|Special|Ignores Accuracy and Evasiveness.|60|∞|-|3
+Signal Beam|Bug|Physical|May confuse opponent.|75|100|10|3
+Silver Wind|Bug|Physical|May raise all stats of user at once.|60|100|10|3
+Sing|Normal|Status|Puts opponent to sleep.|-|55|100|1
+Sketch|Normal|Status|Permanently copies the opponent's last move.|-|-|-|2
+Skill Swap|Psychic|Status|The user swaps Abilities with the opponent.|-|-|-|3
+Skull Bash|Normal|Physical|Raises Defense on first turn, attacks on second.|130|100|100|1
+Sky Attack|Flying|Physical|Charges on first turn, attacks on second. May cause flinching.|140|90|30|1
+Sky Uppercut|Fighting|Physical|Hits the opponent, even during Fly.|85|90|-|3
+Slack Off|Normal|Status|User recovers half its max HP.|-|-|-|3
+Slam|Normal|Physical||80|75|-|1
+Slash|Normal|Physical|High critical hit ratio.|70|100|-|1
+Sleep Powder|Grass|Status|Puts opponent to sleep.|-|75|-|1
+Sleep Talk|Normal|Status|User performs one of its own moves while sleeping.|-|-|-|2
+Sludge|Poison|Physical|May poison opponent.|65|100|30|1
+Sludge Bomb|Poison|Physical|May poison opponent.|90|100|30|2
+Smelling Salts|Normal|Physical|Power doubles if opponent is paralyzed, but cures it.|70|100|-|3
+Smog|Poison|Physical|May poison opponent.|30|70|40|1
+Smokescreen|Normal|Status|Lowers opponent's Accuracy.|-|100|-|1
+Snatch|Dark|Status|Steals the effects of the opponent's next move.|-|-|-|3
+Snore|Normal|Physical|Can only be used if asleep. May cause flinching.|50|100|30|2
+Soft-Boiled|Normal|Status|User recovers half its max HP.|-|-|-|1
+Solar Beam|Grass|Special|Charges on first turn, attacks on second.|120|100|-|1
+Sonic Boom|Normal|Physical|Always inflicts 20 HP.|-|90|-|1
+Spark|Electric|Special|May paralyze opponent.|65|100|30|2
+Spider Web|Bug|Status|Opponent cannot escape/switch.|-|-|-|2
+Spike Cannon|Normal|Physical|Hits 2-5 times in one turn.|20|100|-|1
+Spikes|Ground|Status|Hurts opponents when they switch into battle.|-|-|-|2
+Spit Up|Normal|Physical|Power depends on how many times the user performed Stockpile.|-|100|-|3
+Spite|Ghost|Status|The opponent's last move loses 2-5 PP.|-|100|-|2
+Splash|Normal|Status|Doesn't do ANYTHING.|-|-|-|1
+Spore|Grass|Status|Puts opponent to sleep.|-|100|100|1
+Steel Wing|Steel|Physical|May raise user's Defense.|70|90|10|2
+Stockpile|Normal|Status|Stores energy for use with Spit Up and Swallow.|-|-|-|3
+Stomp|Normal|Physical|May cause flinching.|65|100|30|1
+Strength|Normal|Physical||80|100|-|1
+String Shot|Bug|Status|Sharply lowers opponent's Speed.|-|95|-|1
+Struggle|Normal|Physical|Only usable when all PP are gone. Hurts the user.|50|100|-|1
+Stun Spore|Grass|Status|Paralyzes opponent.|-|75|-|1
+Submission|Fighting|Physical|User receives recoil damage.|80|80|-|1
+Substitute|Normal|Status|Uses HP to creates a decoy that takes hits.|-|-|-|1
+Sunny Day|Fire|Status|Makes it sunny for 5 turns.|-|-|-|2
+Super Fang|Normal|Physical|Always takes off half of the opponent's HP.|-|90|-|1
+Superpower|Fighting|Physical|Lowers user's Attack and Defense.|120|100|-|3
+Supersonic|Normal|Status|Confuses opponent.|-|55|-|1
+Surf|Water|Special|Hits all adjacent Pokémon.|90|100|-|1
+Swagger|Normal|Status|Opponent becomes confused, but its Attack is sharply raised.|-|85|-|2
+Swallow|Normal|Status|The more times the user has performed Stockpile, the more HP is recovered.|-|-|-|3
+Sweet Kiss|Fairy|Status|Confuses opponent.|-|75|-|2
+Sweet Scent|Normal|Status|Lowers opponent's Evasiveness.|-|-|-|2
+Swift|Normal|Physical|Ignores Accuracy and Evasiveness.|60|∞|-|1
+Swords Dance|Normal|Status|Sharply raises user's Attack.|-|-|-|1
+Synthesis|Grass|Status|User recovers HP. Amount varies with the weather.|-|-|-|2
+Tackle|Normal|Physical||40|100|-|1
+Tail Glow|Bug|Status|Drastically raises user's Special Attack.|-|-|-|3
+Tail Whip|Normal|Status|Lowers opponent's Defense.|-|100|-|1
+Take Down|Normal|Physical|User receives recoil damage.|90|85|-|1
+Taunt|Dark|Status|Opponent can only use moves that attack.|-|100|-|3
+Teeter Dance|Normal|Status|Confuses all Pokémon.|-|100|-|3
+Teleport|Psychic|Status|Allows user to flee wild battles; also warps player to last PokéCenter.|-|-|-|1
+Thief|Dark|Status|Also steals opponent's held item.|60|100|-|2
+Thrash|Normal|Physical|User attacks for 2-3 turns but then becomes confused.|120|100|-|1
+Thunder|Electric|Special|May paralyze opponent.|110|70|30|1
+Thunder Punch|Electric|Special|May paralyze opponent.|75|100|10|1
+Thunder Shock|Electric|Special|May paralyze opponent.|40|100|10|1
+Thunder Wave|Electric|Status|Paralyzes opponent.|-|90|100|1
+Thunderbolt|Electric|Special|May paralyze opponent.|90|100|10|1
+Tickle|Normal|Status|Lowers opponent's Attack and Defense.|-|100|-|3
+Torment|Dark|Status|Opponent cannot use the same move in a row.|-|100|-|3
+Toxic|Poison|Status|Badly poisons opponent.|-|90|-|1
+Transform|Normal|Status|User takes on the form and attacks of the opponent.|-|-|-|1
+Tri Attack|Normal|Physical|May paralyze, burn or freeze opponent.|80|100|20|1
+Trick|Psychic|Status|Swaps held items with the opponent.|-|100|-|3
+Triple Kick|Fighting|Physical|Hits thrice in one turn at increasing power.|10|90|-|2
+Twineedle|Bug|Physical|Hits twice in one turn. May poison opponent.|25|100|20|1
+Twister|Dragon|Special|May cause flinching. Hits Pokémon using Fly/Bounce with double power.|40|100|20|2
+Uproar|Normal|Physical|User attacks for 3 turns and prevents sleep.|90|100|-|3
+Vice Grip|Normal|Physical||55|100|-|1
+Vine Whip|Grass|Special||45|100|-|1
+Vital Throw|Fighting|Physical|User attacks last, but ignores Accuracy and Evasiveness.|70|∞|-|2
+Volt Tackle|Electric|Special|User receives recoil damage. May paralyze opponent.|120|100|10|3
+Water Gun|Water|Special||40|100|-|1
+Water Pulse|Water|Special|May confuse opponent.|60|100|20|3
+Water Sport|Water|Status|Weakens the power of Fire-type moves.|-|-|-|3
+Water Spout|Water|Special|The higher the user's HP, the higher the damage caused.|150|100|-|3
+Waterfall|Water|Special|May cause flinching.|80|100|20|1
+Weather Ball|Normal|Physical|Move's power and type changes with the weather.|50|100|-|3
+Whirlpool|Water|Special|Traps opponent, damaging them for 4-5 turns.|35|85|-|2
+Whirlwind|Normal|Status|In battles, the opponent switches. In the wild, the Pokémon runs.|-|-|-|1
+Will-O-Wisp|Fire|Status|Burns opponent.|-|85|100|3
+Wing Attack|Flying|Physical||60|100|-|1
+Wish|Normal|Status|The user recovers HP in the following turn.|-|-|-|3
+Withdraw|Water|Status|Raises user's Defense.|-|-|-|1
+Wrap|Normal|Physical|Traps opponent, damaging them for 4-5 turns.|15|90|-|1
+Yawn|Normal|Status|Puts opponent to sleep in the next turn.|-|-|-|3
+Zap Cannon|Electric|Special|Paralyzes opponent.|120|50|100|2

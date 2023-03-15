@@ -1,7 +1,7 @@
 import csv
 
-input_filename = "All_Moves.csv"
-output_filename = "Gen3.csv"
+input_filename = "./data/all_moves.csv"
+output_filename = "./data/gen3.csv"
 
 column_headings = [
     "Name",

@@ -1,0 +1,933 @@
+Name,Money,Route,Location on Route,Pokemon,Level,Attack 1,Attack 2,Attack 3,Attack 4,EXP,HP,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+Littleroot Rival,80,Route 103,Top,Treecko,5,Pound,Leer,,,69,19,8,8,11,11,12
+Gatekeeper Calvin,80,Route 102,,Poochyena,5,Tackle,Howl,,,58,18,11,8,8,8,7
+Bug Catcher Rick,64,Route 102,,Wurmple,4,Tackle,String Shot,,,46,17,8,7,6,7,6
+,,,,Wurmple,4,Tackle,String Shot,,,46,17,8,6,6,7,6
+Youngster Allen,48,Route 102,,Zigzagoon,4,Tackle,Growl,,,51,17,7,8,7,7,9
+,,,,Taillow,3,Peck,Growl,,,37,15,8,6,6,6,9
+Lass Tiana,64,Route 102,,Zigzagoon,4,Tackle,Growl,,,51,17,7,8,7,7,9
+,,,,Shroomish,4,Absorb,Tackle,,,55,18,8,9,8,9,6
+Bug Catcher Lyle,48,Petalburg Woods,"Left, No Cut",Wurmple,3,Tackle,String Shot,,,34,15,7,7,6,5,6
+,,,,Wurmple,3,Tackle,String Shot,,,34,15,7,7,6,6,5
+,,,,Wurmple,3,Tackle,String Shot,,,34,15,6,7,6,6,6
+,,,,Wurmple,3,Tackle,String Shot,,,34,15,7,7,5,6,6
+Team Aqua Grunt,180,Petalburg Woods,Middle,Poochyena,9,Tackle,Howl,Sand-Attack,,106,25,15,11,10,10,9
+Bug Catcher James,96,Petalburg Woods,"Top, No Cut",Nincada,6,Scratch,Harden,Leech Life,,83,19,10,15,8,8,8
+,,,,Nincada,6,Scratch,Harden,Leech Life,,83,19,10,15,7,8,9
+Rich Boy Winston,1400,Route 104,Upper,Zigzagoon,7,Tackle,Growl ,Tail Whip,,90,22,9,9,9,11,13
+Fisherman Ivan,280,Route 104,Upper,Magikarp,5,Splash,,,,21,17,5,10,6,7,14
+,,,,Magikarp,6,Splash,,,,25,18,6,12,6,6,14
+,,,,Magikarp,7,Splash,,,,30,19,6,13,6,7,16
+Youngster Josh,160,Rustboro Gym,Lower,Geodude,10,Tackle,,,,184,29,19,26,13,12,10
+Youngster Tommy,128,Rustboro Gym,Right,Geodude,8,Tackle,Defense Curl,Mud Sport,,146,25,16,22,10,10,9
+,,,,Geodude,8,Tackle,Defense Curl,Mud Sport,,146,25,18,24,10,9,9
+Hiker Marc,320,Rustboro Gym,Left,Geodude,8,Tackle,Defense Curl,Mud Sport,,146,25,18,22,9,10,9
+,,,,Geodude,8,Tackle,Defense Curl,Mud Sport,,146,25,17,22,12,11,9
+Leader Roxanne,1500,Rustboro Gym,,Geodude,12,Tackle,Rock Throw,Rock Tomb,Defense Curl,220,33,25,30,13,13,11
+,,,,Geodude,12,Tackle,Rock Throw,Rock Tomb,Defense Curl,220,33,25,30,14,13,9
+,,,Stone Badge,Nosepass,15,Tackle,Rock Tomb,Harden,Block,347,37,24,44,22,35,17
+Twins Gina & Mia [2],144,Route 104,Upper Bridge,Seedot,6,Bide,Harden,,,94,20,9,11,7,8,8
+[2],,,,Lotad,6,Astonish,Growl,,,94,20,8,7,9,11,8
+Bug Catcher Jose,128,Route 116,Bottom Left,Wurmple,8,Tackle,String Shot,,,92,25,13,11,8,9,8
+,,,,Nincada,8,Scratch,Harden,Leech Life,,111,23,12,19,10,10,11
+School Kid Karen,180,Route 116,Center,Shroomish,9,Absorb,Tackle,Stun Spore,,125,29,12,16,12,15,9
+Hiker Clark,320,Route 116,Bottom Left,Geodude,8,Tackle,Defense Curl,Mud Sport,,147,24,17,21,9,8,8
+Youngster Johnson,128,Route 116,Top Left,Shroomish,8,Absorb,Tackle,Stun Spore,,110,27,11,14,11,14,10
+,,,,Lotad,8,Astonish,Growl,Absorb,,126,24,8,9,11,13,9
+Hiker Devan,320,Route 116,,Geodude,8,Tackle,Defense Curl,Mud Sport,,147,24,15,21,9,9,8
+,,,,Geodude,8,Tackle,Defense Curl,Mud Sport,,147,24,18,21,9,8,8
+Team Aqua Grunt,220,Rusturf Tunnel,First Visit,Poochyena,11,Tackle,Howl,Sand-Attack,,129,28,18,12,11,11,10
+Lady Sarah [2],1600,Route 116,Cut,Lotad,8,Astonish,Growl,Absorb,,126,24,9,9,11,13,9
+[2],,,,Zigzagoon,8,Tackle,Growl,Tail Whip,,102,24,9,11,9,11,14
+Rich Boy Dawson [2],1600,Route 116,Cut,Zigzagoon,8,Tackle,Growl,Tail Whip,,102,24,9,11,9,11,12
+[2],,,,Poochyena,8,Tackle,Howl,,,94,23,11,10,9,9,11
+School Kid Jerry [2],180,Route 116,Cut,Ralts,9,Growl,Confusion,,,134,24,9,9,13,12,10
+Lass Janice [2],144,Route 116,Cut,Marill,9,Tackle,Defense Curl,Tail Whip,,110,31,8,14,8,12,12
+Youngster Joey,144,Route 116,Top Right,Machop,9,Low Kick,Leer,Focus Energy,,169,31,19,14,11,11,11
+Rustboro Rival,900,Rustboro City,(Outside Rustboro),Wingull,13,Growl,Water Gun,Supersonic,Wing Attack,178,33,13,11,19,14,27
+,,,,Treecko,15,Pound,Leer,Absorb,Quick Attack,208,37,17,17,25,22,26
+Lass Haley,96,Route 104,Upper,Lotad,6,Astonish,Growl,,,95,20,8,8,8,12,8
+,,,,Shroomish,6,Absorb,Tackle,,,83,23,9,12,9,13,8
+Lass Cindy (Full-Restore),1400,Route 104,Pre-Woods,Zigzagoon,7,Tackle,Growl,Tail Whip,,90,22,9,10,9,9,13
+Fisherman Darian,360,Route 104,Lower Beach,Magikarp,9,Splash,,,,38,22,6,14,6,8,19
+Youngster Billy,112,Route 104 ,Lower Beach,Zigzagoon,5,Tackle,Growl,Tail Whip,,64,18,7,9,8,9,11
+,,,,Seedot,7,Bide,Harden,Growth,,111,22,10,13,9,8,9
+Fisherman Ned,440,Route 106,Right Side Beach,Tentacool,11,Poison Sting,Supersonic,,,247,29,13,10,16,29,20
+Fisherman Elliot,400,Route 106,Left Side Beach,Magikarp,10,Splash,,,,42,24,7,16,8,8,21
+,,,,Tentacool,7,Poison Sting,Supersonic,,,157,22,10,9,12,19,14
+,,,,Magikarp,10,Splash,,,,42,24,6,17,8,9,21
+Sailor Huey,384,Route 109,Beach,Wingull,12,Growl,Water Gun,Supersonic,,164,31,13,12,10,18,25
+,,,,Machop,12,Low Kick,Leer,Focus Energy,,226,38,26,17,13,11,13
+Sailor Edmond [2],416,Route 109,Beach,Wingull,13,Growl,Water Gun,Supersonic,Wing Attack,178,33,12,12,19,12,27
+Tuber Hailey [2],52,Route 109,Beach,Marill,13,Tackle,Defense Curl,Tail Whip,Water Gun,160,41,10,18,10,18,15
+Tuber Ricky,52,Route 109,Beach,Zigzagoon,13,Sand-Attack,Headbutt,Tail Whip,Surf,167,33,13,13,12,15,20
+Tuber Lola [2],48,Route 109,Beach,Azurill,12,Splash,Charm,Tail Whip,Bubble,84,34,8,15,9,14,9
+[2],,,,Azurill,12,Splash,Charm,Tail Whip,Bubble,84,34,8,14,9,14,9
+Tuber Chandler [2],48,Route 109,Beach,Tentacool,12,Poison Sting,Supersonic,Constrict,,270,31,15,13,15,29,21
+[2],,,,Tentacool,12,Poison Sting,Supersonic,Constrict,,270,31,12,13,17,31,21
+Tuber Simon,48,Route 109,Seashore House,Azurill,12,Splash,Charm,Tail Whip,Bubble,84,34,9,14,9,14,8
+,,,,Marill,12,Tackle,Defense Curl,Tail Whip,Water Gun,149,38,9,17,8,17,14
+Beauty Johanna,1040,Route 109,Seashore House,Goldeen,13,Peck,Tail Whip,Water Sport,Supersonic,309,34,22,20,15,16,21
+Sailor Dwayne,352,Route 109,Seashore House,Wingull,11,Growl,Water Gun,Supersonic,,150,29,11,11,17,9,25
+,,,,Machop,11,Low Kick,Leer,Focus Energy,,207,36,22,16,12,12,12
+,,,,Tentacool,11,Poison Sting,Supersonic,,,247,29,14,10,16,27,20
+Team Aqua Grunt,300,Slateport City,Museum Lower,Carvanha,15,Leer,Bite,Rage,Focus Energy,282,38,32,12,24,11,21
+Team Aqua Grunt,280,Slateport City,Museum Lower,Zubat,14,Leech Life,Supersonic,Astonish,,162,35,17,12,13,17,20
+,,,,Carvanha,14,Leer,Bite,Rage,Focus Energy,264,36,30,10,25,10,20
+Pokefan Isabel,1120,Route 110,,Plusle,14,Growl,Thunder Wave,Quick Attack,Helping Hand,360,40,17,16,28,26,34
+,,,,Minun,14,Growl,Thunder Wave,Quick Attack,Helping Hand,360,40,16,19,26,28,31
+Pokefan Kaleb,1120,Route 110,,Minun,14,Growl,Thunder Wave,Quick Attack,Helping Hand,360,40,16,20,23,28,31
+,,,,Plusle,14,Growl,Thunder Wave,Quick Attack,Helping Hand,360,40,17,17,28,26,31
+Aroma Lady Daisy,560,Route 103,Far Right,Shroomish,14,Absorb,Tackle,Stun Spore,Leech Seed,195,40,16,18,16,21,15
+,,,,Roselia,14,Absorb,Growth,Poison Sting,Stun Spore,456,38,21,17,33,27,23
+Twins Amy & Liv [2],360,Route 103,Right Center,Plusle,15,Growl,Thunder Wave,Quick Attack,Helping Hand,384,43,20,17,33,27,29
+[2],,,,Minun,15,Growl,Thunder Wave,Quick Attack,Helping Hand,384,43,17,20,27,30,33
+Pokefan Miguel,1200,Route 103,Right Beach,Skitty,15,Tail Whip,Attract,Sing,DoubleSlap,208,40,19,18,15,13,20
+Fisherman Andrew,600,Route 103,Right Beach,Magikarp,5,Splash,,,,21,17,6,10,6,7,13
+,,,,Tentacool,10,Poison Sting,Supersonic,,,225,28,13,10,16,25,19
+,,,,Magikarp,15,Splash,Tackle,,,64,31,8,18,9,11,31
+Black Belt Rhett [2],480,Route 103,Cut,Makuhita,15,Focus Energy,Sand-Attack,Arm Thrust,Vital Throw,278,48,24,15,12,15,14
+Guitarist Marcos [2],480,Route 103,,Voltorb,15,Charge,Tackle,Screech,Sonicboom,330,38,15,23,23,23,32
+Lass Sally,256,Trick House,Puzzle 1,Oddish,16,Absorb,Sweet Scent,Poisonpowder,Stun Spore,267,40,21,22,29,22,15
+Lass Robin,224,Trick House,Puzzle 1,Skitty,14,Tackle,Tail Whip,Attract,Sing,195,38,17,17,14,14,19
+,,,,Shroomish,14,Absorb,Tackle,Stun Spore,Leech Seed,195,40,16,23,16,18,14
+,,,Top Right Table,Marill,14,Tackle,Defense Curl,Tail Whip,Water Gun,174,43,10,19,9,20,16
+Youngster Eddie,256,Trick House,Puzzle 1,Zigzagoon,14,Growl,Tail Whip,Headbutt,Sand-Attack,180,34,13,16,14,16,18
+,,,,Zigzagoon,16,Growl,Tail Whip,Headbutt,Sand-Attack,205,38,14,18,12,19,24
+Youngster Timmy,208,Route 110,Mid Main,Aron,15,Harden,Mud-Slap,Headbutt,Metal Claw,308,40,26,35,15,18,14
+,,,,Electrike,13,Tackle,Thunder Wave,Leer,Howl,289,33,14,16,21,15,21
+Slateport Rival,1200,Route 110,,Slugma,18,Yawn,Smog,Ember,Rock Throw,300,43,18,22,31,20,13
+,,,,Grovyle,20,Absorb,Quick Attack,Fury Cutter,Pursuit,604,52,33,22,41,33,49
+,,,,Wingull,18,Growl,Water Gun,Supersonic,Wing Attack,246,43,14,16,27,16,36
+Collector Edwin [2],840,Route 110,High-Mid Main,Lombre,14,Astonish,Growl,Absorb,Nature Power,422,40,19,20,21,24,17
+[2],,,,Nuzleaf,14,Pound,Harden,Growth,Nature Power,422,43,24,16,21,14,23
+Guitarist Joseph [2],448,Route 110,High-Mid Main,Electrike,14,Tackle,Thunder Wave,Leer,Howl,312,35,17,16,25,16,20
+[2],,,,Voltorb,14,Charge,Tackle,Screech,,308,35,13,19,20,20,33
+Psychic Edward,360,Route 110,,Abra,15,Hidden Power,,,,234,32,11,9,32,21,32
+Triathlete Alyssa,600,Route 110,,Magnemite,15,Metal Sound,Tackle,Thundershock,Supersonic,286,32,15,26,36,18,18
+Fisherman Dale,560,Route 110,Left of Cycling Road,Tentacool,11,Poison Sting,Supersonic,,,247,29,13,12,16,27,20
+,,,,Wailmer,14,Splash,Growl,Water Gun,Rollout,411,60,24,14,24,14,21
+,,,,Tentacool,11,Poison Sting,Supersonic,,,247,29,11,12,16,29,20
+,,,,Wailmer,14,Splash,Growl,Water Gun,Rollout,411,60,24,14,24,12,23
+Aroma Lady Rose,560,Route 118,West,Roselia,14,Absorb,Growth,Poison Sting,Stun Spore,456,38,21,17,33,27,23
+,,,,Roselia,14,Absorb,Growth,Poison Sting,Stun Spore,456,38,21,17,33,27,23
+,,,,Shroomish,14,Absorb,Tackle,Stun Spore,Leech Seed,194,40,16,21,16,21,14
+Youngster Deandre,224,Route 118,West,Zigzagoon,14,Growl,Tail Whip,Headbutt,Sand-Attack,180,34,13,16,13,16,21
+,,,,Aron,14,Harden,Mud-Slap,Headbutt,Metal Claw,288,38,24,33,14,16,14
+,,,,Electrike,14,Tackle,Thunder Wave,Leer,Howl,312,35,18,16,20,16,23
+Fisherman Wade,640,Route 118,West,Tentacool,16,Poison Sting,Supersonic,Constrict,,360,38,17,14,21,40,24
+Guitarist Dalton,480,Route 118,West,Magnemite,15,Metal Sound,Tackle,Thundershock,Supersonic,286,32,15,26,36,18,18
+,,,,Whismur,15,Pound,Uproar,Astonish,Howl,218,44,20,11,20,9,14
+PKMN Trainer Wally,960,Mauville City,,Ralts,16,Growl,Confusion,Double Team,Teleport,240,35,14,13,19,14,18
+Youngster Ben,272,Mauville Gym,Center,Zigzagoon,17,Headbutt,Sand-Attack,Growl,Thunderbolt,218,42,18,22,18,22,28
+,,,,Gulpin,17,Amnesia,Sludge,Yawn,Pound,273,53,22,26,22,26,21
+Battle Girl Vivian [2],408,Mauville Gym,Left,Meditite,17,Bide,Detect,Confusion,Thunderpunch,330,39,20,22,22,25,27
+[2],,,,Meditite,17,Thunderpunch,Detect,Confusion,Meditate,330,39,20,25,20,25,27
+Guitarist Kirk [2],544,Mauville Gym,Left,Electrike,17,Quick Attack,Thunder Wave,Spark,Leer,378,42,22,18,31,20,29
+[2],,,,Voltorb,17,Charge,Shock Wave,Screech,,374,42,15,24,25,25,45
+Bug Maniac Angelo [2],1020,Mauville Gym,Right,Illumise,17,Shock Wave,Quick Attack,Charm,,530,51,23,27,31,28,35
+[2],,,,Volbeat,17,Shock Wave,Quick Attack,Confuse Ray,,530,51,34,25,20,32,35
+Guitarist Shawn [2],544,Mauville Gym,Right,Voltorb,17,Charge,Tackle,Screech,Sonicboom,374,42,17,24,27,25,36
+[2],,,,Magnemite,17,Tackle,Thundershock,Supersonic,Sonicboom,324,37,19,30,35,25,22
+Leader Wattson,2400,Mauville Gym,,Voltorb,20,Rollout,Spark,Self-Destruct,Shock Wave,441,50,21,29,31,31,49
+,,,,Electrike,20,Shock Wave,Leer,Quick Attack,Howl,445,50,27,25,35,25,35
+,,,,Magneton,22,Supersonic,Shock Wave,Thunder Wave,Sonicboom,759,59,37,57,56,41,41
+,,,Dynamo Badge,Manectric,24,Quick Attack,Thunder Wave,Shock Wave,Howl,864,74,52,41,62,41,55
+Camper Tyron [2],304,Route 111,South,Sandshrew,19,Scratch,Defense Curl,Sand-Attack,Poison Sting,378,48,36,37,10,16,20
+Aroma Lady Celina [2],720,Route 111,South,Roselia,18,Growth,Poison Sting,Stun Spore,Mega Drain,586,46,26,18,45,33,28
+Picknicker Bianca [2],288,Route 111,South,Shroomish,18,Tackle,Stun Spore,Leech Seed,Mega Drain,250,49,19,28,19,23,17
+Kindler Hayden [2],576,Route 111,South,Numel,18,Growl,Tackle,Ember,,338,49,26,19,30,18,17
+Winstrate Victor,320,Route 111,Winstrate House,Taillow,16,Growl,Focus Energy,Quick Attack,Wing Attack,202,39,23,15,15,15,32
+,,,,Zigzagoon,16,Growl,Tail Whip,Headbutt,Sand-Attack,205,38,15,18,15,18,24
+Winstrate Victoria,340,Route 111,Winstrate House,Roselia,17,Growth,Poison Sting,Stun Spore,Mega Drain,553,45,26,18,44,33,28
+Winstrate Vivi,300,Route 111,Winstrate House,Marill,15,Defense Curl,Tail Whip,Water Gun,Rollout,186,47,12,21,13,21,16
+,,,,Shroomish,15,Absorb,Tackle,Stun Spore,Leech Seed,208,44,18,21,19,24,17
+,,,,Numel,15,Growl,Tackle,Ember,,282,44,24,18,26,22,15
+Winstrate Vicky,360,Route 111,Winstrate House,Meditite,18,Hi Jump Kick,Meditate,Confusion,Detect,351,43,23,31,20,29,30
+Interviewer Gabby & Ty [2],1632,Route 111,South,Magnemite,17,Tackle,Thundershock,Supersonic,Sonicboom,324,36,17,29,38,24,21
+[2],,,,Whismur,17,Pound,Uproar,Astonish,Howl,246,49,20,13,23,14,15
+Camper Travis,288,Route 111,South,Sandshrew,18,Scratch,Defense Curl,Sand-Attack,Poison Sting,358,46,35,31,12,15,19
+Hiker Trent,640,Route 112,South,Geodude,16,Defense Curl,Mud Sport,Rock Throw,Magnitude,294,38,30,37,14,14,11
+,,,,Geodude,17,Defense Curl,Mud Sport,Rock Throw,Magnitude,313,40,35,35,15,15,11
+,,,,Geodude,16,Defense Curl,Mud Sport,Rock Throw,Magnitude,294,38,30,33,14,15,11
+Hiker Brice,680,Route 112,South,Numel,17,Growl,Tackle,Ember,,320,47,25,19,24,20,16
+,,,,Machop,17,Low Kick,Leer,Focus Energy,Karate Chop,320,50,32,22,17,16,14
+Kindler Bryant [2],576,Route 112,North,Numel,18,Growl,Tackle,Ember,,338,49,26,20,28,21,15
+[2],,,,Slugma,18,Yawn,Smog,Ember,Rock Throw,300,42,19,19,33,19,10
+Aroma Lady Shayla [2],720,Route 112,North,Shroomish,18,Tackle,Stun Spore,Leech Seed,Mega Drain,250,49,19,26,19,26,17
+[2],,,,Roselia,18,Growth,Poison Sting,Stun Spore,Mega Drain,586,46,28,21,36,33,28
+Cooltrainer Wilton,816,Route 111,North,Electrike,17,Thunder Wave,Leer,Howl,Quick Attack,378,42,22,20,29,20,29
+,,,,Wailmer,17,Splash,Growl,Water Gun,Rollout,499,73,30,18,30,16,29
+,,,,Makuhita,17,Focus Energy,Sand-Attack,Arm Thrust,Vital Throw,316,53,27,17,13,17,15
+Cooltrainer Brooke,816,Route 111,North,Wingull,17,Growl,Water Gun,Supersonic,Wing Attack,233,42,17,17,25,17,35
+,,,,Numel,17,Growl,Tackle,Ember,,320,49,27,20,29,22,18
+,,,,Roselia,17,Growth,Poison Sting,Stun Spore,Mega Drain,553,46,29,22,41,34,26
+Black Belt Daisuke,608,Route 111,Mach Bike,Machop,19,Leer,Focus Energy,Karate Chop,Seismic Toss,358,57,37,26,20,20,20
+Youngster Jaylen,304,Route 113,Center,Trapinch,19,Bite,Sand-Attack,Faint Attack,,297,46,43,19,22,24,8
+Camper Lawrence,288,Route 113,Backtrack,Baltoy,18,Rapid Spin,Mud-Slap,Psybeam,Rock Tomb,223,42,19,21,19,33,24
+,,,,Sandshrew,18,Scratch,Defense Curl,Sand-Attack,Poison Sting,358,46,28,35,12,16,19
+Ninja Boy Lung [2],216,Route 113,Backtrack,Koffing,18,Poison Gas,Tackle,Smog,Selfdestruct,438,42,28,39,28,18,17
+[2],,,,Ninjask,18,Harden,Leech life,Sand-Attack,Fury Swipes,596,49,37,21,23,23,62
+PokeManiac Wyatt [2],1080,Route 113,Backtrack,Aron,18,Mud-Slap,Headbutt,Metal Claw,Iron Defense,370,46,33,41,19,19,13
+[2],,,,Aron,18,Mud-Slap,Headbutt,Metal Claw,Iron Defense,370,46,30,41,19,19,15
+Parasol Lady Madeline,760,Route 113,Center,Numel,19,Ember,Tackle,Magnitude,Sunny Day,358,51,27,18,29,24,18
+Twins Tori & Tia [2],456,Route 113,Center,Spinda,19,Tackle,Uproar,Faint Attack,Psybeam,346,51,27,24,27,27,29
+[2],,,,Spinda,19,Tackle,Uproar,Faint Attack,Psybeam,346,51,27,27,29,24,27
+Ninja Boy Lao,204,Route 113,Top,Koffing,17,Poison Gas,Tackle,Smog,Selfdestruct,415,40,27,37,25,22,14
+,,,,Koffing,17,Poison Gas,Tackle,Smog,Selfdestruct,415,40,27,40,22,20,16
+,,,,Koffing,17,Poison Gas,Tackle,Smog,Selfdestruct,415,40,27,37,27,18,16
+Youngster Dillon,304,Route 113,Center,Aron,19,Mud-Slap,Headbutt,Metal Claw,Iron Defense,390,48,27,47,20,20,16
+Picknicker Sophie [2],304,Route 113,Edge of Route,Marill,17,Defense Curl,Tail Whip,Water Gun,Rollout,210,50,11,24,11,19,18
+[2],,,,Lombre,19,Growl,Absorb,Nature Power,Fake Out,574,51,24,24,24,34,24
+Bird Keeper Coby [2],608,Route 113,Edge of Route,Skarmory,17,Peck,Sand-Attack,Swift,Agility,612,49,32,52,18,28,28
+[2],,,,Swellow,19,Focus Energy,Quick Attack,Wing Attack,Double Team,658,51,37,27,24,24,52
+Fisherman Nolan,760,Route 114,Top,Barboach,19,Mud Sport,Water Sport,Water Gun,Magnitude,374,48,20,23,22,20,27
+Picknicker Charlotte [2],304,Route 114,Right,Nuzleaf,19,Harden,Growth,Nature Power,Fake Out,574,55,31,20,24,22,27
+Fisherman Kai [2],760,Route 114,Right,Barboach,19,Mud Sport,Water Sport,Water Gun,Magnitude,374,48,23,21,19,20,29
+Fisherman Claude,720,Route 114,Center,Magikarp,16,Splash,Tackle,,,68,32,8,22,9,11,27
+,,,,Goldeen,17,Tail Whip,Water Sport,Supersonic,Horn Attack,404,42,27,25,14,24,26
+,,,,Barboach,18,Mud Sport,Water Sport,Water Gun,Magnitude,354,46,22,20,18,20,26
+Picknicker Nancy,288,Route 114,Center,Marill,18,Defense Curl,Tail Whip,Water Gun,Rollout,223,53,13,23,10,23,19
+,,,,Lombre,18,Astonish,Growl,Absorb,Nature Power,543,49,23,20,26,30,25
+Sr. and Jr. Tyra & Ivy [2],640,Route 114,Center,Roselia,18,Growth,Stun Spore,Mega Drain,Leech Seed,586,46,26,18,45,33,28
+[2],,,,Graveler,20,Defense Curl,Rollout,Mud Sport,Rock Throw,574,52,43,51,23,23,19
+Camper Shane,288,Route 114,Right,Sandshrew,18,Scratch,Defense Curl,Sand-Attack,Poison Sting,358,46,32,38,10,15,19
+,,,,Nuzleaf,18,Pound,Harden,Growth,Nature Power,543,53,30,19,28,19,23
+Pokemaniac Steve,1140,Route 114,Bottom of Grass,Aron,19,Mud-Slap,Headbutt,Metal Claw,Iron Defense,390,48,31,43,22,18,16
+Kindler Bernie,576,Route 114,Right,Slugma,18,Yawn,Smog,Ember,Rock Throw,300,42,19,20,30,17,12
+,,,,Wingull,18,Growl,Water Gun,Supersonic,Wing Attack,246,42,15,15,21,16,35
+Hiker Lucas [2],720,Route 114,Center,Geodude,18,Defense Curl,Mud Sport,Rock Throw,Magnitude,330,42,29,45,15,15,12
+[2],,,,Numel,18,Growl,Tackle,Ember,,338,49,26,17,30,21,17
+Picknicker Angelina [2],288,Route 114,Center,Lombre,18,Astonish,Growl,Absorb,Nature Power,542,49,23,23,26,30,23
+[2],,,,Marill,18,Defense Curl,Tail Whip,Water Gun,Rollout,222,53,13,23,12,20,19
+Hiker Lenny,720,Route 114,Center,Geodude,18,Defense Curl,Mud Sport,Rock Throw,Magnitude,331,42,33,41,15,13,13
+,,,,Machop,18,Low Kick,Leer,Focus Energy,Karate Chop,339,53,33,20,17,18,17
+Black Belt Nob,608,Route 115 Main,Center,Machop,19,Leer,Focus Energy,Karate Chop,Seismic Toss,358,57,40,26,20,20,18
+Battle Girl Cyndy,432,Route 115 Main,Top Left,Meditite,18,Meditate,Confusion,Detect,Hidden Power,351,40,21,26,30,21,23
+,,,,Makuhita,18,Focus Energy,Sand-Attack,Arm Thrust,Vital Throw,335,56,30,17,14,17,14
+Collector Hector [2],1080,Route 115 Main,Center,Zangoose,18,Leer,Quick Attack,Swords Dance,Fury Cutter,636,54,46,23,26,26,40
+[2],,,,Seviper,18,Wrap,Lick,Bite,Poison Tail,636,54,41,26,41,28,25
+Psychic Marlene [2],432,Route 115 Main,Center,Meditite,18,Meditate,Confusion,Detect,Hidden Power,350,38,20,24,17,24,26
+[2],,,,Spoink,18,Splash,Psywave,Odor Sleuth,Psybeam,342,49,14,17,27,36,26
+Hiker Mike,640,Rusturf Tunnel,Second Visit,Geodude,16,Defense Curl,Mud Sport,Rock Throw,Magnitude,294,38,30,37,14,14,11
+,,,,Geodude,16,Defense Curl,Mud Sport,Rock Throw,Magnitude,294,38,33,33,14,14,11
+,,,,Machop,16,Low Kick,Leer,Focus Energy,Karate Chop,301,48,30,21,16,16,16
+Pokemon  Breeder Lydia,440,Route 117,Center,Wingull,11,Growl,Wing Attack,Supersonic,,233,29,11,11,17,11,23
+,,,,Shroomish,11,Absorb,Tackle,Stun Spore,Leech Seed,153,34,11,19,13,18,12
+,,,,Marill,11,Tackle,Defense Curl,Tail Whip,Water Gun,136,36,9,16,9,16,11
+,,,,Roselia,11,Absorb,Growth,Poison Sting,,358,32,18,14,27,22,19
+,,,,Skitty,11,Growl,Tackle,Tail Whip,Attract,153,32,12,15,12,12,16
+,,,,Goldeen,11,Peck,Tail Whip,Water Sport,Supersonic,261,30,19,18,12,16,18
+Bug Maniac Derek,960,Route 117,Bottom,Dustox,16,Confusion,Gust,,,548,48,23,30,20,36,30
+,,,,Beautifly,16,Absorb,Gust,,,552,48,33,20,36,23,28
+Psychic Brandi,408,Route 117,Top,Ralts,17,Growl,Confusion,Double Team,Teleport,255,36,14,13,20,14,18
+Triathlete Melina [2],680,Route 117,Top,Doduo,17,Peck,Growl,Pursuit,Fury Attack,348,38,33,20,16,16,30
+Battle Girl Aisha [2],408,Route 117,Top,Meditite,17,Bide,Meditate,Confusion,Detect,330,37,18,20,19,23,25
+Triathlete Maria,680,Route 117,Bottom,Doduo,17,Peck,Growl,Pursuit,Fury Attack,349,38,33,18,16,16,33
+Pokemon  Breeder Isaac,440,Route 117,Center,Whismur,11,Pound,Uproar,Astonish,,160,35,16,10,17,10,9
+,,,,Zigzagoon,11,Tackle,Growl,Tail Whip,Headbutt,141,29,11,15,11,12,18
+,,,,Aron,11,Tackle,Harden,Mud-Slap,Headbutt,226,32,20,27,13,11,12
+,,,,Poochyena,11,Tackle,Howl,Sand-Attack,,129,28,17,12,91,12,12
+,,,,Taillow,11,Peck,Growl,Focus Energy,Quick Attack,139,29,15,11,12,11,23
+,,,,Makuhita,11,Tackle,Focus Energy,Sand-Attack,Arm Thrust,205,36,18,11,9,11,10
+Triathlete Dylan,680,Route 117,Bottom,Doduo,17,Peck,Growl,Pursuit,Fury Attack,349,38,33,18,16,16,33
+Sr. & Jr. Anna & Meg [2],544,Route 117,Top,Zigzagoon,15,Growl,Tail Whip,Headbutt,Odor Sleuth,192,36,15,17,14,15,23
+[2],,,,Makuhita,17,Tackle,Focus Energy,Arm Thrust,,316,51,25,15,9,16,13
+Team Magma Grunt,400,Mt. Chimney,Left,Numel,20,Growl,Tackle,Ember,Magnitude,377,54,29,21,31,23,19
+Team Magma Grunt,400,Mt. Chimney,Left,Zubat,20,Leech Life,Supersonic,Astonish,Bite,231,46,23,17,17,23,27
+Magma Admin Tabitha (Mt. Chimney),880,Mt. Chimney,Center,Numel,18,Ember,Tackle,Growl,,339,50,27,22,29,19,18
+,,,,Zubat,22,Wing Attack,Bite,Astonish,Supersonic,231,50,26,21,20,20,30
+,,,,Poochyena,20,Bite,Howl,Sand-Attack,Odor Sleuth,259,45,28,20,18,18,20
+,,,,Numel,22,Magnitude,Ember,Tackle,Growl,414,59,32,20,37,26,21
+Magma Leader Maxie (Mt. Chimney),2000,Mt. Chimney,Center,Mightyena,24,Bite,Sand-Attack,Roar,Odor Sleuth,658,71,52,46,38,34,42
+,,,,Zubat,24,Wing Attack,Bite,Astonish,Supersonic,277,57,33,23,23,28,35
+,,,,Camerupt,25,Magnitude,Ember,Tackle,Focus Energy,937,74,64,44,55,47,29
+Hiker Eric,800,Jagged Pass,Left,Geodude,20,Defense Curl,Mud Sport,Rock Throw,Magnitude,368,46,37,45,15,17,14
+,,,,Baltoy,20,Mud-Slap,Psybeam,Rock Tomb,Selfdestruct,248,46,21,29,18,33,27
+Team Magma Straggler,440,Jagged Pass,Center,Poochyena,22,Sand-Attack,Bite,Odor Sleuth,Roar,259,48,33,21,19,19,18
+,,,,Numel,22,Growl,Tackle,Ember,Magnitude,414,59,32,25,34,26,18
+Picknicker Diana,304,Jagged Pass,Left,Shroomish,19,Tackle,Stun Spore,Leech Seed,Mega Drain,264,51,20,27,20,27,18
+,,,,Oddish,19,Sweet Scent,Poisonpowder,Stun Spore,Sleep Powder,317,46,24,22,36,29,16
+,,,,Swablu,19,Growl,Astonish,Sing,Fury Attack,301,46,20,29,20,29,24
+Picknicker Autumn [2],336,Jagged Pass,Center,Shroomish,21,Tackle,Stun Spore,Leech Seed,Mega Drain,292,56,21,30,23,27,19
+Triathlete Julio [2],840,Jagged Pass,Center,Magnemite,21,Thundershock,Supersonic,Sonicboom,Thunder Wave,400,41,19,37,44,25,23
+Camper Ethan,320,Jagged Pass,Center,Zigzagoon,20,Tail Whip,Headbutt,Sand-Attack,Odor Sleuth,257,45,17,21,17,21,29
+,,,,Taillow,20,Focus Energy,Quick Attack,Wing Attack,Double Team,252,46,27,17,17,17,39
+Kindler Jeff,,Lavaridge Gym,,Slugma,22,Smog,Ember,Rock Throw,Harden,367,52,25,22,38,27,16
+,,,,Slugma,22,Smog,Ember,Rock Throw,Harden,367,52,25,25,38,25,16
+Kindler Jace,,Lavaridge Gym,,Slugma,23,Smog,Ember,Rock Throw,Harden,384,54,26,26,35,28,16
+Hiker Eli,,Lavaridge Gym,,Numel,23,Growl,Tackle,Ember,Magnitude,433,63,31,26,37,28,25
+Kindler Cole,,Lavaridge Gym,,Numel,23,Growl,Tackle,Ember,Magnitude,433,63,31,28,37,28,23
+Cooltrainer Gerald,,Lavaridge Gym,,Kecleon,23,Flamethrower,Fury Swiped,Faint Attack,Bind,650,63,49,35,38,62,26
+Kindler Axle,,Lavaridge Gym,,Numel,23,Growl,Tackle,Ember,Magnitude,433,63,35,26,37,30,20
+Kindler Keegan,,Lavaridge Gym,,Slugma,23,Smog,Ember,Rock Throw,Harden,384,54,26,26,40,26,17
+Battle Girl Danielle,552,Lavaridge Gym,,Meditite,23,Bide,Detect,Confusion,Fire Punch,448,49,26,36,23,33,35
+Leader Flannery,2900,Lavaridge Gym,,Numel,24,Magnitude,Take Down,Overheat,Sunny Day,452,68,39,29,36,32,29
+,,,,Slugma,24,Smog,Overheat,Light Screen,Sunny Day,401,58,26,29,44,31,20
+,,,,Camerupt,26,Overheat,Tackle,Attract,Sunny Day,975,80,70,49,60,51,33
+,,,Heat Badge,Torkoal,29,Body Slam,Overheat,Attract,Sunny Day,1000,88,56,94,69,54,25
+Picknicker Carol,272,Route 112,South,Taillow,17,Growl,Focus Energy,Quick Attack,Wing Attack,214,40,23,16,13,15,33
+,,,,Lombre,17,Astonish,Growl,Absorb,Nature Power,513,47,22,22,25,29,22
+Camper Larry,288,Route 112,South,Nuzleaf,18,Pound,Harden,Growth,Nature Power,543,53,30,20,26,19,23
+Camper Beau,336,Route 111 Desert,,Baltoy,21,Rapid Spin,Mud-Slap,Psybeam,Rock Tomb,261,47,18,28,21,37,28
+,,,,Sandshrew,21,Poison Sting,Sand-Attack,Scratch,Dig,418,52,36,40,13,17,21
+,,,,Baltoy,21,Rapid Spin,Mud-Slap,Psybeam,Rock Tomb,261,47,23,28,21,34,25
+Picknicker Heidi,352,Route 111 Desert,,Sandshrew,22,Dig,Sand-Attack,Poison Sting,Slash,438,54,34,42,13,19,22
+,,,,Baltoy,22,Rapid Spin,Mud-Slap,Psybeam,Rock Tomb,273,49,22,29,22,35,29
+Camper Drew,368,Route 111 Desert,,Sandshrew,23,Dig,Sand-Attack,Poison Sting,Slash,458,56,35,44,14,18,25
+Picknicker Becky,352,Route 111 Desert,,Sandshrew,22,Sand-Attack,Poison Sting,Slash,Dig,438,54,38,37,13,18,24
+,,,,Marill,22,Rollout,BubbleBeam,Tail Whip,Defense Curl,273,62,14,27,11,27,22
+Ruin Maniac Bryan [2],1320,Route 111 Desert,,Sandshrew,22,Scratch,Defense Curl,Sand-Attack,Poison Sting,438,54,38,37,13,18,24
+[2],,,,Sandslash,22,Scratch,Defense Curl,Sand-Attack,Poison Sting,768,65,53,58,24,29,29
+Camper Branden [2],352,Route 111 Desert,,Taillow,22,Focus Energy,Quick Attack,Wing Attack,Double Team,278,49,26,18,18,18,46
+[2],,,,Nuzleaf,22,Harden,Growth,Nature Power,Fake Out,664,62,35,22,34,22,27
+Picknicker Celia,352,Route 111 Desert,,Marill,22,Tail Whip,Water Gun,Rollout,BubbleBeam,273,62,13,24,14,27,22
+,,,,Lombre,22,Growl,Absorb,Nature Power,Fake Out,664,58,27,27,31,35,27
+Ruin Maniac Dusty,1380,Route 111 Desert,,Sandslash,23,Dig,Slash,Sand-Attack,Poison Sting,803,68,57,50,27,31,36
+Picknicker Irene,272,Route 111,South,Shroomish,17,Tackle,Stun Spore,Leech Seed,Mega Drain,236,47,18,25,19,22,16
+,,,,Marill,17,Defense Curl,Tail Whip,Water Gun,Rollout,211,50,11,19,12,22,18
+Psychic Jaclyn,384,Route 110,Cycling Road,Abra,16,Hidden Power,,,,250,34,12,9,38,22,29
+Triathlete Abigail,640,Route 110,Cycling Road,Magnemite,16,Tackle,Thundershock,Supersonic,Sonicboom,305,34,16,27,38,19,19
+Triathlete Anthony,560,Route 110,Cycling Road,Magnemite,14,Metal Sound,Tackle,Thundershock,Supersonic,267,31,14,21,31,22,17
+,,,,Magnemite,14,Metal Sound,Tackle,Thundershock,Supersonic,267,31,14,24,31,20,17
+Traithlete Benjamin,640,Route 110,Cycling Road,Magnemite,16,Tackle,Thundershock,Supersonic,Sonicboom,305,34,16,27,31,22,20
+Triathlete Jasmine,240,Route 110,Cycling Road,Magnemite,14,Metal Sound,Tackle,Thundershock,Supersonic,267,32,16,25,32,21,18
+,,,,Magnemite,14,Metal Sound,Tackle,Thundershock,Supersonic,267,32,17,25,28,21,18
+,,,,Voltorb,6,Charge,Tackle,,,132,20,8,11,11,11,15
+Triathlete Jacob,560,Route 110,Cycling Road,Voltorb,6,Charge,Tackle,,,132,20,8,11,9,11,18
+,,,,Voltorb,6,Charge,Tackle,,,132,20,7,11,12,11,17
+,,,,Magnemite,14,Metal Sound,Tackle,Thundershock,Supersonic,267,34,18,27,34,25,18
+Battle Girl Laura,312,Dewford Gym,Bottom,Meditite,13,Bide,Meditate,Confusion,Detect,253,33,17,21,17,21,22
+Battle Girl Lilith [2],312,Dewford Gym,Far Right,Meditite,13,Bide,Meditate,Confusion,Detect,252,33,17,21,17,21,22
+Sailor Brenden [2],416,Dewford Gym,Far Right,Machop,13,Low Kick,Leer,Focus Energy,Karate Chop,244,42,29,19,15,15,13
+Black Belt Takao,416,Dewford Gym,Far Left,Machop,13,Low Kick,Leer,Focus Energy,Karate Chop,245,43,27,17,16,16,17
+Black Belt Cristian,416,Dewford Gym,,Makuhita,13,Focus Energy,Sand-Attack,Arm Thrust,Vital Throw,242,44,25,15,13,13,14
+Battle Girl Jocelyn,312,Dewford Gym,,Meditite,13,Bide,Meditate,Confusion,Detect,253,32,17,21,17,21,22
+Leader Brawly,1900,Dewford Gym,,Machop,16,Karate Chop,Low Kick,Seismic Toss,Bulk Up,301,50,32,22,18,18,18
+,,,,Meditite,16,Focus Punch,Light Screen,Reflect,Bulk Up,312,37,17,24,19,26,26
+,,,Knuckle Badge,Makuhita,19,Arm Thrust,Vital Throw,Reversal,Bulk Up,354,60,32,22,17,18,19
+Cooltrainer Mary,1248,Petalburg Gym,Bottom Right,Delcatty,26,Faint Attack,Shock Wave,,,768,80,46,46,45,36,49
+Cooltrainer George,1248,Petalburg Gym,Center Right,Slakoth,26,Shadow Ball,Counter,Slack Off,,462,75,48,44,31,31,25
+Cooltrainer Randall,1248,Petalburg Gym,Bottom Left,Swellow,26,Quick Attack,Agility,Wing Attack,,902,75,57,39,39,39,85
+Cooltrainer Parker,1248,Petalburg Gym,Center Left,Spinda,26,Teeter Dance,Dizzy Punch,Focus Punch,,473,75,39,44,44,48,44
+Cooltrainer Jody,1248,Petalburg Gym,Top Left,Zangoose,26,Swords Dance,Slash,,,919,82,72,44,39,48,59
+Cooltrainer Alexia,1248,Petalburg Gym,Center Center,Wigglytuff,26,Defense Curl,Double-Edge,Shadow Ball,,607,116,53,36,52,35,36
+Cooltrainer Berke,1248,Petalburg Gym,Top Right,Vigoroth,26,Slash,Focus Energy,,,702,85,54,54,41,41,59
+Leader Norman,3100,Petalburg Gym,,Spinda,27,Facade,Psybeam,Teeter Dance,Encore,491,75,43,43,43,43,43
+,,,,Vigoroth,27,Slash,Facade,Faint Attack,Encore,729,86,54,54,41,36,66
+,,,,Linoone,29,Slash,Facade,Headbutt,Belly Drum,795,91,57,42,40,47,69
+,,,Balance Badge,Slaking,31,Facade,Faint Attack,Counter,Yawn,1395,143,113,76,73,59,68
+Swimmer Imani,208,Route 105,Right,Marill,26,Tail Whip,Water Gun,Rollout,Bubblebeam,323,72,15,31,15,31,25
+Swimmer Domimik,208,Route 105,Left,Tentacool,26,Supersonic,Constrict,Acid,Bubblebeam,585,56,25,23,31,62,36
+Ruin Maniac Foster,1500,Route 105,Island,Sandshrew,25,Dig,Slash,Sand-Attack,Poison Sting,498,63,40,50,19,23,28
+,,,,Sandslash,25,Dig,Slash,Sand-Attack,Poison Sting,873,75,52,63,30,35,44
+Swimmer Beverly,200,Route 105,Left,Wingull,25,Water Gun,Supersonic,Wing Attack,Mist,342,55,20,18,35,20,47
+,,,,Wailmer,25,Water Gun,Rollout,Whirlpool,Astonish,733,100,36,22,40,22,38
+Ruin Maniac Andres [2],1500,Route 105,Island,Sandshrew,25,Defense Curl,Sand-Attack,Poison Sting,Slash,498,61,44,53,14,21,26
+[2],,,,Sandshrew,25,Defense Curl,Sand-Attack,Poison Sting,Slash,498,61,39,53,16,21,26
+Bird Keeper Josue [2],800,Route 105,Island,Taillow,25,Focus Energy,Quick Attack,Wing Attack,Double Team,316,56,34,21,21,21,49
+[2],,,,Wingull,25,Water Gun,Supersonic,Wing Attack,Mist,342,56,21,21,34,21,49
+Swimmer Luis,208,Route 105,Left,Carvanha,26,Rage,Focus Energy,Scary Face,Crunch,490,59,56,15,38,15,34
+Swimmer Douglas,192,Route 106,,Tentacool,24,Poison Sting,Supersonic,Constrict,Acid,540,53,24,19,29,58,38
+,,,,Tentacool,24,Poison Sting,Supersonic,Constrict,Acid,540,53,24,22,29,53,38
+Swimmer Kyla,208,Route 106,,Wailmer,26,Water Gun,Rollout,Whirlpool,Astonish,763,103,45,20,41,23,36
+Swimmer Denise,200,Route 107,,Wingull,25,Water Gun,Supersonic,Wing Attack,Mist,342,55,22,20,32,20,42
+,,,,Goldeen,25,Water Sport,Supersonic,Horn Attack,Flail,594,57,38,35,22,30,36
+Swimmer Tony,208,Route 107,,Carvanha,26,Rage,Focus Energy,Scary Face,Crunch,490,59,45,16,38,15,38
+Sis & Bro Lisa & Ray [2],600,Route 107,,Goldeen,27,Water Sport,Supersonic,Horn Attack,Flail,642,61,45,37,23,28,39
+[2],,,,Tentacool,25,Supersonic,Constrict,Acid,Bubblebeam,562,55,22,22,30,60,40
+Swimmer Darrin,192,Route 107,,Tentacool,24,Poison Sting,Supersonic,Constrict,Acid,540,53,21,22,31,53,38
+,,,,Wingull,24,Water Gun,Supersonic,Wing Attack,Mist,329,53,17,19,31,20,46
+,,,,Tentacool,24,Poison Sting,Supersonic,Constrict,Acid,540,53,24,22,29,53,38
+Swimmer Beth [2],208,Route 107,,Goldeen,26,Water Sport,Supersonic,Horn Attack,Flail,618,59,42,36,20,31,37
+Triathlete Camron [2],1040,Route 107,,Staryu,26,Rapid Spin,Recover,Camouflage,Swift,590,51,28,29,41,33,53
+Swimmer Missy,208,Route 108,,Goldeen,26,Water Sport,Supersonic,Horn Attack,Flail,618,59,39,36,25,27,37
+Swimmer Matthew,208,Route 108,,Carvanha,26,Rage,Focus Energy,Scary Face,Crunch,490,59,51,15,38,15,38
+Beauty Thalia [2],2000,Abandonded Ship,First Cabins,Wailmer,25,Water Gun,Rollout,Whirlpool,Astonish,732,100,36,22,40,24,35
+[2],,,,Horsea,25,Bubble,Smokescreen,Leer,Water Gun,444,50,25,40,40,15,38
+Youngster Demetrius [2],400,Abandonded Ship,First Cabins,Zigzagoon,25,Sand-Attack,Odor Sleuth,Mud Sport,Pin Missile,320,54,22,25,18,25,35
+[2],,,,Electrike,25,Howl,Quick Attack,Spark,Odor Sleuth,556,55,29,25,33,25,37
+Sailor Duncan,800,Abandonded Ship,2F Center,Spheal,25,Encore,Ice Ball,Body Slam,Aurora Beam,401,70,25,27,32,30,18
+,,,,Machoke,25,Karate Chop,Seismic Toss,Foresight,Revenge,782,75,55,40,30,38,24
+Tuber Charlie,104,Abandonded Ship,1F Left,Marill,26,Tail Whip,Water Gun,Rollout,Bubblebeam,323,72,13,31,15,34,25
+Ruin Maniac Garrison [2],1560,Abandonded Ship,Top of 1F Cabins,Sandslash,26,Defense Curl,Sand-Attack,Poison Sting,Slash,908,75,57,55,28,36,38
+Tuber Jani [2],104,Abandonded Ship,,Marill,26,Tail Whip,Water Gun,Rollout,Bubblebeam,322,72,15,31,15,31,25
+Youg Couple Kira & Dan [2],1600,Abandonded Ship,,Volbeat,25,Moonlight,Quick Attack,Tail Glow,Signal Beam,782,67,41,35,28,42,42
+[2],,,,Illumise,25,Moonlight,Quick Attack,Wish,Encore,782,67,25,32,45,42,47
+Swimmer Tara,200,Route 108,,Horsea,25,Bubble,Smokescreen,Leer,Water Gun,444,50,25,36,44,17,35
+,,,,Marill,25,Tail Whip,Water Gun,Rollout,Bubblebeam,310,70,15,30,15,30,25
+Cooltrainer Carolina [2],1152,Route 108,,Manectric,24,Leer,Howl,Quick Attack,Spark,864,69,42,31,56,38,56
+[2],,,,Swellow,24,Focus Energy,Quick Attack,Wing Attack,Double Team,832,64,51,35,27,30,66
+[2],,,,Manectric,24,Leer,Howl,Quick Attack,Spark,864,69,46,35,56,31,56
+Sailor Cory [2],768,Route 108,,Wingull,24,Water Gun,Supersonic,Wing Attack,Mist,328,53,19,17,34,19,45
+[2],,,,Machop,24,Focus Energy,Karate Chop,Seismic Toss,Foresight,452,67,47,29,18,21,21
+[2],,,,Tentacool,24,Poison Sting,Supersonic,Constrict,Acid,540,53,24,23,29,53,34
+Swimmer Jerome,208,Route 108,,Tentacruel,26,Supersonic,Constrict,Acid,Bubblebeam,1142,77,45,38,46,67,51
+Fisherman Carter [2],1000,Route 109 Surf,,Wailmer,25,Water Gun,Rollout,Whirlpool,Astonish,732,100,36,22,40,24,35
+[2],,,,Tentacruel,25,Supersonic,Constrict,Acid,Bubblebeam,1098,75,36,40,45,65,55
+Bird Keeper Elijah [2],800,Route 109 Surf,,Skarmory,25,Peck,Sand-Attack,Swift,Agility,900,67,45,75,25,40,40
+[2],,,,Skarmory,25,Peck,Sand-Attack,Swift,Agility,900,67,45,75,25,36,44
+Tuber Austina,104,Route 109 Surf,,Marill,26,Tail Whip,Water Gun,Rollout,Bubblebeam,323,72,16,31,13,31,25
+Tuber Gwen,104,Route 109 Surf,,Marill,26,Tail Whip,Water Gun,Rollout,Bubblebeam,323,72,15,31,15,27,27
+Swimmer Alice,192,Route 109 Surf,,Goldeen,24,Water Sport,Supersonic,Horn Attack,Flail,570,55,37,33,21,26,38
+,,,,Wingull,24,Water Gun,Supersonic,Wing Attack,Mist,329,53,19,19,31,19,45
+,,,,Goldeen,24,Water Sport,Supersonic,Horn Attack,Flail,570,55,37,33,21,29,35
+Swimmer David,200,Route 109 Surf,,Tentacool,25,Supersonic,Constrict,Acid,Bubblebeam,562,55,22,24,30,55,40
+,,,,Carvanha,25,Rage,Focus Energy,Scary Face,Crunch,471,57,50,13,37,15,40
+Young Couple Mel & Paul [2],1728,Route 109 Surf,,Dustox,27,Gust,Psybeam,Toxic,Protect,924,69,35,42,32,47,40
+[2],,,,Beautifly,27,Gust,Mega Drain,Attract,Stun Spore,930,69,42,28,58,32,40
+Swimmer Isabelle [2],120,Route 103 Surfing,Center,Marill,15,Defense Curl,Tail Whip,Water Gun,Rollout,186,46,11,20,11,20,17
+Swimmer Pete [2],120,Route 103 Surfing,,Tentacool,15,Poison Sting,Supersonic,Constrict,,336,37,17,15,20,35,26
+Fisherman Barny,1000,Route 118,East,Tentacool,25,Supersonic,Constrict,Acid,Bubblebeam,562,55,25,22,30,55,40
+,,,,Carvanha,25,Rage,Focus Energy,Scary Face,Crunch,471,57,55,13,37,15,37
+Bird Keeper Chester,800,Route 118,East,Taillow,25,Focus Energy,Quick Attack,Wing Attack,Double Team,316,55,28,22,20,20,47
+,,,,Swellow,25,Focus Energy,Quick Attack,Wing Attack,Double Team,867,65,51,31,30,30,67
+Bird Keeper Perry,832,Route 118,East,Wingull,26,Water Gun,Supersonic,Wing Attack,Mist,356,56,20,22,29,20,49
+Bug Catcher Kent,400,Route 119,,Ninjask,25,Double Team,Fury Cutter,Screech,Swords Dance,830,65,45,29,30,30,85
+Bug Maniac Donald,1440,Route 119,,Wurmple,24,Tackle,String Shot,Poison Sting,,277,58,29,24,18,22,15
+,,,,Silcoon,24,Harden,,,,365,60,24,34,19,20,13
+,,,,Beautifly,24,Gust,Stun Spore,Morning Sun,Mega Drain,828,65,41,31,51,31,39
+Bug Catcher Greg,400,Route 119,,Volbeat,25,Moonlight,Quick Attack,Tail Glow,Signal Beam,782,67,41,28,28,46,47
+,,,,Illumise,25,Moonlight,Quick Attack,Wish,Encore,782,67,25,32,41,42,51
+Bug Maniac Taylor,1620,Route 119,,Wurmple,27,Tackle,String Shot,Poison Sting,,312,64,32,27,17,24,20
+,,,,Cascoon,27,Harden,,,,416,67,27,37,21,21,16
+,,,,Dustox,27,Protect,Moonlight,Psybeam,Whirlwind,925,72,35,46,35,56,43
+Bug Catcher Doug,448,Route 119,,Nincada,28,Sand-Attack,Fury Swipes,Mind Reader,False Swipe,390,55,27,55,21,23,27
+,,,,Ninjask,28,Double Team,Fury Cutter,Screech,Swords Dance,930,72,55,27,33,36,94
+Bug Maniac Brent,1560,Route 119,,Surskit,26,Quick Attack,Sweet Scent,Water Sport,Bubblebeam,351,59,23,26,34,31,41
+Fisherman Chris,920,Route 119,Requires Surf,Magikarp,29,Splash,Tackle,,,124,50,10,36,14,16,45
+,,,,Tentacool,20,Poison Sting,Supersonic,Constrict,Acid,450,46,21,19,22,45,36
+,,,,Feebas,26,Splash,Tackle,,,339,46,12,16,10,29,46
+,,,,Carvanha,23,Rage,Focus Energy,Scary Face,Crunch,433,53,46,14,37,14,30
+Pokemon  Ranger Catherine,1248,Route 119,,Gloom,26,Poisonpowder,Stun Spore,Sleep Powder,Acid,735,68,40,42,50,40,29
+,,,,Roselia,26,Stun Spore,Mega Drain,Leech Seed,Magical Leaf,846,63,37,29,63,48,36
+Pokemon  Ranger Jackson,1296,Route 119,,Breloom,27,Leech Seed,Mega Drain,Headbutt,Mach Punch,954,71,83,49,35,39,44
+Parasol Lady Rachel [2],1040,Route 119,,Goldeen,26,Water Sport,Supersonic,Horn Attack,Flail,618,59,39,39,23,31,33
+Bird Keeper Phil [2],832,Route 119,,Swellow,26,Focus Energy,Quick Attack,Wing Attack,Double Team,902,67,49,32,31,31,77
+Ninja Boy Takashi [2],300,Route 119,,Ninjask,25,Double Team,Fury Cutter,Screech,Swords Dance,830,65,50,27,33,30,76
+[2],,,,Koffing,25,Smog,Selfdestruct,Sludge,Smokescreen,610,55,37,52,31,27,24
+Kindler Dayton [2],800,Route 119,,Slugma,25,Smog,Ember,Rock Throw,Harden,416,55,22,25,44,25,15
+[2],,,,Numel,25,Tackle,Ember,Magnitude,Focus Energy,470,65,31,27,37,27,22
+Bird Keeper Hugh,800,Route 119,,Wingull,25,Water Gun,Supersonic,Wing Attack,Mist,342,55,20,20,32,18,51
+,,,,Tropius,25,Growht,Razor Leaf,Stomp,Sweet Scent,905,84,39,46,41,48,30
+Team Aqua Grunt,560,Weather Institute,1F,Carvanha,28,Crunch,Screech,Focus Energy,Scary Face,528,63,55,14,45,16,41
+Team Aqua Grunt,540,Weather Institute,1F,Zubat,27,Astonish,Bite,Wing Attack,Confuse Ray,312,58,29,20,21,28,34
+,,,,Poochyena,27,Bite,Odor Sleuth,Roar,Swagger,318,55,34,23,21,21,23
+Team Aqua Grunt [2],540,Weather Institute,2F,Poochyena,27,Wing Attack,Bite,Astonish,Confuse Ray,318,58,26,25,21,26,34
+[2],,,,Carvanha,27,Bite,Swagger,Roar,Odor Sleuth,508,55,34,20,21,23,23
+Team Aqua Grunt [2],540,Weather Institute,2F,Zubat,27,Bite,Swagger,Roar,Odor Sleuth,312,55,37,23,21,21,20
+[2],,,,Poochyena,27,Crunch,Rage,Focus Energy,Scary Face,318,61,53,15,36,16,40
+Team Aqua Grunt,520,Weather Institute,2F,Poochyena,26,Bite,Odor Sleuth,Roar,Swagger,306,54,36,23,20,20,20
+,,,,Zubat,26,Astonish,Bite,Wing Attack,Confuse Ray,300,56,28,23,20,25,33
+,,,,Carvanha,26,Rage,Focus Energy,Scary Face,Crunch,490,59,51,16,34,15,38
+Aqua Admin Shelly,1120,Weather Institute,2F,Carvanha,28,Crunch,Screech,Focus Energy,Scary Face,528,64,57,17,38,17,47
+,,,,Mightyena,28,Bite,Swagger,Roar,Odor Sleuth,768,78,62,40,40,40,45
+Fortree Rival,1860,Route 119,,Slugma,29,Rock Throw,Ember,Harden,Amnesia,484,65,27,34,49,31,20
+,,,,Grovyle,31,Leaf Blade,Fury Cutter,Pursuit,Screech,936,77,50,34,63,55,69
+,,,,Pelipper,29,Wing Attack,Protect,Supersonic,Mist,1019,77,37,66,57,49,46
+Guitarist Fabian [2],832,Route 119,,Manectric,26,Howl,Quick Attack,Spark,Odor Sleuth,936,72,39,36,64,36,59
+Ninja Boy Yasu [2],312,Route 119,,Ninjask,26,Double Team,Fury Cutter,Screech,Swords Dance,862,67,56,25,31,31,88
+Ninja Boy Hideo,300,Route 119,,Koffing,25,Tackle,Selfdestruct,Sludge,Smokescreen,610,55,37,57,35,27,19
+,,,,Koffing,25,Tackle,Poison Gas,Sludge,Smokescreen,610,55,40,52,31,27,22
+Parasol Lady Clarissa,1120,Route 120,,Roselia,28,Stun Spore,Mega Drain,Leech Seed,Magical Leaf,912,66,41,27,61,49,41
+,,,,Wailmer,28,Rollout,Whirlpool,Astonish,Water Pulse,822,110,44,24,48,21,38
+Bird Keeper Robert,928,Route 120,,Swablu,29,Sing,Fury Attack,Safeguard,Mist,459,65,28,39,28,43,37
+Bird Keeper Humberto,960,Fortree Gym,,Skarmory,30,Swift,Agility,Fury Attack,Air Cutter,1080,88,62,98,38,56,56
+Bird Keeper Jared [2],864,Fortree Gym,,Doduo,27,Pursuit,Fury Attack,Tri Attack,Rage,554,59,59,32,24,27,48
+[2],,,,Skarmory,27,Sand-Attack,Swift,Agility,Fury Attack,972,75,51,91,29,41,46
+[2],,,,Tropius,27,Razor Leaf,Stomp,Sweet Scent,Whirlwind,976,93,44,53,47,55,35
+Picknicker Ashley [2],432,Fortree Gym,,Swablu,27,Astonish,Sing,Fury Attack,Safeguard,428,64,29,40,29,48,35
+[2],,,,Swablu,27,Astonish,Sing,Fury Attack,Safeguard,428,64,26,44,29,48,35
+[2],,,,Swablu,27,Astonish,Sing,Fury Attack,Safeguard,428,64,26,40,29,48,38
+Camper Flint [2],464,Fortree Gym,,Swellow,29,Wing Attack,Endeavor,Quick Attack,Double Team,1006,79,59,45,35,42,82
+[2],,,,Xatu,29,Night Shade,Peck,Leer,Teleport,1062,81,58,50,65,45,65
+Bird Keeper Edwardo [2],928,Fortree Gym,,Doduo,29,Tri Attack,Fury Attack,Rage,Pursuit,596,64,64,36,30,30,47
+[2],,,,Pelipper,29,Wing Attack,Supersonic,Protect,Mist,1018,79,39,68,64,45,47
+Bird Keeper Darius,960,Fortree Gym,,Tropius,30,Razor Leaf,Stomp,Sweet Scent,Whirlwind,1086,106,53,68,55,57,42
+Leader Winona,3300,Fortree Gym,,Swablu,29,Aerial Ace,Perish Song,Mirror Move,Safeguard,459,72,35,42,35,55,45
+,,,,Tropius,29,Solarbeam,Aerial Ace,Sunny Day,Synthesis,1050,103,51,66,48,62,41
+,,,,Pelipper,30,Aerial Ace,Water Gun,Supersonic,Protect,1054,83,37,72,63,59,51
+,,,,Skarmory,31,Aerial Ace,Steel Wing,Fury Attack,Sand-Attack,1116,89,55,99,37,61,56
+,,,Feather Badge,Altaria,33,Earthquake,Aerial Ace,Dragonbreath,Dragon Dance,1329,102,61,74,61,84,68
+Bird Keeper Colin,896,Route 120,,Wingull,28,Water Gun,Supersonic,Wing Attack,Mist,384,60,21,23,35,18,52
+,,,,Natu,28,Peck,Leer,Night Shade,Teleport,438,60,33,33,44,30,39
+Cooltrainer Leonel [2],1440,Route 120,,Manectric,30,Thunder,Quick Attack,Thunder Wave,,1080,85,47,44,71,48,71
+Parasol Lady Angelica [2],1200,Route 120,,Castform,30,Rain Dance,Weather Ball,Thunder,Water Pulse,932,83,48,52,43,48,48
+Ninja Boy Riley [2],336,Route 120,,Nincada,28,Leech Life,Fury Swipes,Mind Reader,Dig,390,55,30,55,21,21,27
+[2],,,,Koffing,28,Tackle,Selfdestruct,Sludge,Smokescreen,684,60,41,63,38,30,21
+Battle Girl Callie [2],972,Route 120,,Meditite,28,Detect,Hidden Power,Mind Reader,Calm Mind,546,54,27,35,27,35,38
+[2],,,,Makuhita,28,Vital Throw,Fake Out,Whirlwind,Knock Off,522,78,38,18,16,21,20
+Cooltrainer Jennifer,1440,Route 120,,Sableye,30,Fury Attack,Fake Out,Detect,Faint Attack,630,77,51,57,51,51,46
+Pokemon  Ranger Jenna,1344,Route 120,,Lotad,28,Growl,Absorb,Nature Power,Mist,444,62,23,23,29,34,23
+,,,,Lombre,28,Absorb,Nature Power,Fake Out,Fury Swipes,846,73,34,30,40,45,37
+,,,,Nuzleaf,28,Growth,Nature Power,Fake Out,Torment,846,78,49,29,40,29,36
+Pokemon  Ranger Lorenzo,1344,Route 120,,Seedot,28,Harden,Growth,Nature Power,Synthesis,444,62,29,37,23,23,20
+,,,,Nuzleaf,28,Growth,Nature Power,Fake Out,Torment,846,78,45,26,40,31,40
+,,,,Lombre,28,Absorb,Nature Power,Fake Out,Fury Swipes,846,73,34,34,40,45,34
+Bug Maniac Jeffrey,1620,Route 120,,Surskit,27,Quick Attack,Sweet Scent,Water Sport,BubbleBeam,364,58,21,22,32,33,40
+,,,,Surskit,27,Quick Attack,Sweet Scent,Water Sport,BubbleBeam,364,58,21,22,28,33,44
+,,,,Surskit,27,Quick Attack,Sweet Scent,Water Sport,BubbleBeam,364,58,21,22,32,29,44
+Ninja Boy Keigo,336,Route 120,,Koffing,28,Poison Gas,Selfdestruct,Sudge,Smokescreen,684,60,41,58,38,30,24
+,,,,Ninjask,28,Sand-Attack,Double Team,Fury Cutter,Swords Dance,930,72,49,30,33,33,103
+Ruin Maniac Chip,1620,Route 120,,Baltoy,27,Psybeam,Selfdestruct,Sandstorm,AncientPower,335,60,28,36,28,44,36
+,,,,Sandshrew,27,Dig,Slash,Sand-Attack,Poison Sting,538,65,51,52,17,22,25
+,,,,Sandslash,27,Dig,Slash,Sand-Attack,Poison Sting,943,79,60,72,27,36,72
+Bug Maniac Cale [2],1740,Route 121,,Dustox,29,Protect,Moonlight,Psybeam,Whirlwind,994,73,30,45,37,57,42
+[2],,,,Beautifly,29,Stun Spore,Morning Sun,Mega Drain,Whirlwind,1000,73,40,37,57,34,42
+Hex Maniac Tammy [2],696,Route 121,,Duskull,29,Foresight,Astonish,Confuse Ray,Pursuit,602,50,28,57,24,51,19
+[2],,,,Shuppet,29,Screech,Night Shade,Curse,Spite,602,64,48,25,36,26,31
+Beauty Jessica,2320,Route 121,,Kecleon,29,Bind,Lick,Fury Swipes,Faint Attack,820,73,51,49,39,74,28
+,,,,Seviper,29,Poison Tail,Screech,Glare,Crunch,1025,81,63,39,63,35,46
+Sr. and Jr. Kate & Joy [2],1024,Route 121,,Spinda,30,Hypnosis,Psybeam,Dizzy Punch,Teeter Dance,546,76,41,41,41,41,41
+[2],,,,Slaking,32,Focus Punch,Yawn,Slack Off,Faint Attack,1440,138,96,69,65,46,75
+Pokemon  Breeder Pat [2],1000,Route 121,,Poochyena,25,Bite,Odor Sleuth,Roar,Swagger,294,52,32,19,20,22,22
+[2],,,,Shroomish,25,Stun Spore,Leech Seed,Mega Drain,Headbutt,348,65,27,35,25,31,22
+[2],,,,Electrike,25,Howl,Quick Attack,Spark,Odor Sleuth,556,55,27,22,37,27,37
+Pokemon  Breeder Myles [2],1000,Route 121,,Makuhita,25,Arm Thrust,Vital Throw,Fake Out,Whirlwind,466,71,35,20,16,20,15
+[2],,,,Wingull,25,Water Gun,Supersonic,Wing Attack,Mist,342,55,20,18,35,20,47
+[2],,,,Tropius,25,Growth,Razor Leaf,Stomp,Sweet Scent,904,84,35,46,41,48,33
+Gentlman Walter,2320,Route 121,,Manectric,29,Howl,Quick Attack,Spark,Odor Sleuth,1044,79,48,35,71,39,65
+Pokefan Vanessa,2400,Route 121,,Pikachu,30,Quick Attack,Double Team,Slam,Thunderbolt,527,61,38,23,38,26,59
+Cooltrainer Marcel [2],1392,Route 121,,Manectric,29,Howl,Quick Attack,Spark,Odor Sleuth,1044,83,56,43,69,38,69
+[2],,,,Shiftry,29,Pound,Harden,Growth,Nature Power,1124,94,72,43,60,38,54
+Cooltrainer Cristin [2],1392,Route 121,,Loudred,29,Astonish,Howl,Supersonic,Stomp,782,91,44,33,49,36,36
+[2],,,,Vigoroth,29,Encore,Uproar,Fury Swipes,Endure,782,88,54,48,40,44,60
+PokeManiac Mark,1860,Mt.Pyre,2F,Rhyhorn,31,Stomp,Fury Attack,Scary Face,Rock Blast,896,90,57,63,23,23,20
+Hex Maniac Leah [2],744,Mt.Pyre,2F,Spoink,31,Psybeam,Psych Up,Confuse Ray,Magic Coat,590,78,18,26,52,54,42
+Black Belt Zander [2],992,Mt.Pyre,2F,Hariyama,31,Vital Throw,Fake Out,Whirlwind,Knock Off,1222,130,79,42,29,42,36
+Young Couple Dez & Luke [2],1984,Mt.Pyre,2F,Delcatty,31,Growl,Attract,Sing,Doubleslap,916,84,45,49,39,39,43
+[2],,,,Manectric,31,Quick Attack,Spark,Odor Sleuth,Roar,1116,84,56,42,63,42,70
+Psychic Kayla [2],624,Mt.Pyre,3F,Wobbuffet,26,Counter,Mirror Coat,Safeguard,Destiny Bond,986,134,22,35,24,31,22
+[2],,,,Natu,26,Peck,Leer,Night Shade,Teleport,406,56,31,28,41,28,41
+[2],,,,Kadabra,26,Disable,Psybeam,Reflect,Recover,806,56,23,20,73,36,59
+Pokemon Breeder Gabrielle [2],1040,Mt.Pyre,3F,Skitty,26,Sing,Doubleslap,Assist,Charm,362,62,25,28,23,23,34
+[2],,,,Poochyena,26,Bite,Odor Sleuth,Roar,Swagger,306,54,33,20,20,20,25
+[2],,,,Zigzagoon,26,Sand-Attack,Odor Sleuth,Mud Sport,Pin Missile,334,55,18,26,20,28,36
+Psychic William,624,Mt.Pyre,3F,Ralts,26,Double Team,Teleport,Calm Mind,Psychic,390,50,18,18,28,25,22
+,,,,Ralts,26,Double Team,Teleport,Calm Mind,Psychic,390,50,18,19,25,23,25
+,,,,Kirlia,26,Double Team,Teleport,Calm Mind,Psychic,780,55,23,23,38,33,31
+Hex Maniac Tasha,768,Mt.Pyre,4F,Shuppet,32,Night Shade,Curse,Spite,Will-O-Wisp,665,72,54,26,47,28,38
+Black Belt Atsushi,1024,Mt.Pyre,5F,Hariyama,32,Vital Throw,Fake Out,Whirlwind,Knock Off,1261,138,85,47,34,42,44
+Hex Maniac Valerie [2],768,Mt.Pyre,6F,Sableye,32,Fury Swipes,Fake Out,Detect,Faint Attack,672,74,47,53,50,46,37
+Psychic Cedric [2],768,Mt.Pyre,6F,Wobbuffet,32,Destiny Bond,Safeguard,Mirror Coat,Counter,1212,163,28,42,23,42,26
+Team Aqua Grunt,640,Mt.Pyre,Outside,Carvanha,32,Scary Face,Crunch,Screech,Take Down,603,70,62,18,46,17,41
+Team Aqua Grunt,640,Mt.Pyre,Outside,Zubat,32,Bite,Wing Attack,Confuse Ray,Air Cutter,370,67,33,24,24,33,40
+Team Aqua Grunt [2],600,Mt.Pyre,Outside,Poochyena,30,Odor Sleuth,Roar,Swagger,Scary Face,352,61,41,26,23,23,23
+[2],,,,Carvanha,30,Focus Energy,Scary Face,Crunch,Screech,564,67,59,17,39,18,44
+Team Aqua Grunt [2],600,Mt.Pyre,Outside,Wailmer,30,Rollout,Whirlwind,Astonish,Water Pulse,880,118,51,26,42,26,41
+[2],,,,Zubat,30,Astonish,Bite,Wing Attack,Confuse Ray,346,64,32,26,20,29,41
+Psychic Cameron,744,Route 123,Cut,Solrock,31,Rock Throw,Fire Spin,Psywave,Cosmic Power,996,84,63,62,39,45,43
+Ninja Boy Jonas [2],372,Route 123,,Koffing,31,Toxic,Thunder,Selfdestruct,Sludge Bomb,756,65,40,63,46,32,26
+Parasol Lady Kayley [2],1240,Route 123,,Castform,31,Sunny Day,Weather Ball,Flamethrower,Solarbeam,962,84,48,48,43,48,53
+Hex Maniac Kindra [2],720,Route 123,,Duskull,30,Foresight,Astonish,Confuse Ray,Pursuit,622,52,26,59,23,64,20
+[2],,,,Shuppet,30,Screech,Night Shade,Curse,Spite,622,66,50,26,42,24,32
+Collector Ed [2],1800,Route 123,,Zangoose,30,Swords Dance,Fury Cutter,Slash,Pursuit,1060,83,74,41,41,41,59
+[2],,,,Seviper,30,Poison Tail,Screech,Glare,Crunch,1060,83,65,41,65,41,44
+Cooltrainer Wendy,1392,Route 123,Grass,Mawile,29,Baton Pass,Faint Attack,Fake Tears,Bite,609,71,57,57,40,40,37
+,,,,Roselia,29,Mega Drain,Magical Leaf,Grasswhistle,Leech Seed,944,71,43,34,72,54,41
+,,,Hop Down ONCE,Pelipper,29,Fly,Water Gun,Mist,Protect,1019,77,37,72,51,49,46
+Cooltrainer Braxton ,1344,Route 123,Grass,Swellow,28,Focus Energy,Quick Attack,Wing Attack,Endeavour,972,74,60,41,32,36,78
+,,,,Trapinch,28,Bite,Dig,Faint Attack,Sand Tomb,438,66,64,29,36,33,13
+,,,,Wailmer,28,Rollout,Whirlpool,Astonish,Water Pulse,822,114,42,27,51,27,41
+,,,,Magneton,28,Thunderbolt,Supersonic,Thunder Wave,Sonicboom,966,69,45,61,67,47,47
+,,,Hop Down ONCE,Shiftry,28,Giga Drain,Faint Attack,Double Team,Swagger,1086,91,64,36,58,45,53
+Guitarist Fernando [2],960,Route 123,,Electrike,30,Quick Attack,Spark,Odor Sleuth,Roar,668,64,32,29,39,31,44
+[2],,,,Loudred,30,Astonish,Howl,Supersonic,Stomp,810,90,47,30,47,30,33
+Bird Keeper Alberto [2],960,Route 123,,Pelipper,30,Wing Attack,Supersonic,Mist,Protect,1054,76,35,58,56,51,44
+[2],,,,Xatu,30,Peck,Leer,Night Shade,Teleport,1098,79,50,47,62,47,62
+Psychic Jacki [2],720,Route 123,Stay Low,Kadabra,30,Psybeam,Reflect,Recover,Future Sight,932,64,26,23,84,42,68
+[2],,,,Lunatone,30,Confusion,Rock Throw,Hypnosis,Psywave,964,82,38,44,62,56,47
+Expert Fredrick [2],1200,Route 123,,Makuhita,30,Vital Throw,Fake Out,Whirlwind,Knock Off,558,86,39,26,22,26,23
+[2],,,,Machoke,30,Karate Chop,Seismic Toss,Foresight,Revenge,938,91,61,50,38,44,38
+Twins Miu&Yuki [2],624,Route 123,,Beautifly,26,Gust,Stun Spore,Morning Sun,Mega Drain,896,67,41,31,51,27,41
+[2],,,,Dustox,26,Gust,Protect,Moonlight,Psybeam,890,67,31,41,31,45,41
+Aroma Lady Violet,1040,Route 123,,Roselia,26,Stun Spore,Mega Drain,Leech Seed,Magical Leaf,846,62,36,28,57,46,38
+,,,,Gloom,26,Poisonpowder,Stun Spore,Sleep Powder,Acid,735,67,38,36,49,48,25
+Bug Catcher Davis [2],432,Route 123,,Pinsir,27,Bind,Seismic Toss,Harden,Revenge,1156,72,79,59,34,42,45
+Cooltrainer Jazmyn [2],540,Route 123,,Absol,27,Quick Attack,Razor WInd,Bite,Swords Dance,1006,72,75,37,45,37,45
+Beauty Shirley,1680,Mt. Chimney,Post-Team Magma,Numel,21,Growl,Tackle,Ember,Magnitude,396,56,33,21,28,23,19
+Beauty Sheila,1680,Mt. Chimney,Post-Team Magma,Shroomish,21,Tackle,Stun Spore,Leech Seed,Mega Drain,292,56,23,30,18,30,19
+Expert Shelby,840,Mt. Chimney,Post-Team Magma,Meditite,21,Meditate,Confusion,Detect,Hidden Power,409,48,23,36,26,33,35
+,,,,Makuhita,21,Sand-Attack,Arm Thrust,Vital Throw,Fake Out,391,66,35,24,18,19,20
+Hiker Sawyer [2],840,Mt. Chimney,Post-Team Magma,Geodude,21,Mud Sport,Rock Throw,Magnitude,Selfdestruct,386,47,38,47,17,17,13
+Beauty Melissa [2],840,Mt. Chimney,Post-Team Magma,Marill,21,Tail Whip,Water Gun,Rollout,BubbleBeam,260,60,13,23,13,26,23
+Team Magma Grunt,580,Magma Hideout,1F,Poochyena,29,Odor Sleuth,Roar,Swagger,Scary Face,341,59,39,25,22,22,22
+Team Magma Grunt,580,Magma Hideout,2F,Numel,29,Ember,Magnitude,Focus Energy,Take Down,546,73,39,25,46,31,25
+Team Magma Grunt,580,Magma Hideout,2F,Mightyena,29,Bite,Odor Sleuth,Roar,Swagger,795,79,57,40,39,39,49
+Team Magma Grunt,560,Magma Hideout,2F,Baltoy,28,Psybeam,Rock Tomb,Selfdestruct,AncientPower,348,60,27,35,29,44,31
+,,,,Numel,28,Tackle,Ember,Magnitude,Focus Energy,528,71,38,27,41,33,21
+Team Magma Grunt,560,Magma Hideout,2F,Baltoy,28,Psybeam,Rock Tomb,Selfdestruct,AncientPower,348,60,27,35,29,44,31
+,,,,Zubat,28,Astonish,Bite,Wing Attack,Confuse Ray,324,60,33,24,21,27,31
+Team Magma Grunt [2],580,Magma Hideout,2F (Room 2),Numel,29,Ember,Magnitude,Focus Energy,Take Down,546,73,39,28,42,31,25
+Team Magma Grunt [2],580,Magma Hideout,2F (Room 2),Mightyena,29,Bite,Odor Sleuth,Roar,Swagger,794,79,62,45,39,39,40
+Team Magma Grunt,580,Magma Hideout,2F (Room 2),Zubat,29,Astonish,Bite,Wing Attack,Confuse Ray,335,62,31,22,22,30,36
+Team Magma Grunt,580,Magma Hideout,2F (Room 2),Poochyena,29,Odor Sleuth,Roar,Swagger,Scary Face,341,59,39,25,22,22,22
+Team Magma Grunt,580,Magma Hideout,1F,Zubat,29,Astonish,Bite,Wing Attack,Confuse Ray,335,62,31,22,22,30,36
+Team Magma Grunt,580,Magma Hideout,3F,Zubat,29,Astonish,Bite,Wing Attack,Confuse Ray,335,62,31,22,22,30,36
+Team Magma Grunt,580,Magma Hideout,3F (Room 3),Mightyena,29,Bite,Odor Sleuth,Roar,Swagger,795,79,62,45,39,39,40
+Team Magma Grunt,580,Magma Hideout,3F,Baltoy,29,Psybeam,Rock Tomb,Selfdestruct,AncientPower,360,62,30,31,28,45,36
+Team Magma Grunt,580,Magma Hideout,4F,Baltoy,29,Psybeam,Rock Tomb,Selfdestruct,AncientPower,360,62,28,36,30,45,32
+Team Magma Grunt [2],580,Magma Hideout,4F,Numel,29,Ember,Magnitude,Focus Energy,Take Down,546,73,39,25,46,31,25
+Team Magma Grunt [2],580,Magma Hideout,4F,Zubat,29,Astonish,Bite,Wing Attack,Confuse Ray,334,62,31,22,22,30,36
+Magma Admin Tabitha,1320,Magma Hideout,4F,Numel,26,Magnitude,Ember,Tackle,Focus Energy,490,69,38,30,41,27,25
+,,,,Mightyena,28,Bite,Swagger,Roar,Odor Sleuth,768,79,57,46,41,41,46
+,,,,Zubat,30,Wing Attack,Bite,Astonish,Confuse Ray,347,66,34,25,25,34,40
+,,,,Camerupt,33,Rock Slide,Take Down,Amnesia,Focus Energy,1237,92,73,59,77,51,34
+Magma Leader Maxie,3120,Magma Hideout,4F,Mightyena,37,Take Down,Swagger,Scary Face,Roar,1014,105,78,69,56,50,63
+,,,,Crobat,38,Air Cutter,Wing Attack,Bite,Confuse Ray,1661,119,88,64,65,72,110
+,,,,Camerupt,39,Earthquake,Rock Slide,Take Down,Amnesia,1462,110,99,66,83,70,43
+Lilycove Rival,2040,Lilycove City,,Tropius,31,Stomp,Sweet Scent,Whirlwind,Magical Leaf,1122,107,52,55,60,64,42
+,,,,Grovyle,34,Fury Cutter,Pursuit,Screech,Leaf Blade,1027,86,62,38,70,57,77
+,,,,Slugma,32,Ember,Rock Throw,Harden,Amnesia,534,73,32,36,55,36,25
+,,,,Pelipper,32,Wing Attack,Supersonic,Mist,Protect,1124,86,37,81,65,55,52
+Team Aqua Grunt,640,Aqua Hideout,1F,Poochyena,32,Odor Sleuth,Roar,Swagger,Scary Face,377,64,44,27,24,24,24
+Team Aqua Grunt,640,Aqua Hideout,B1F West,Carvanha,32,Scary Face,Crunch,Screech,Take Down,603,70,62,15,50,17,46
+Team Aqua Grunt [2],620,Aqua Hideout,B1F West,Zubat,31,Air Cutter,Wing Attack,Bite,Confuse Ray,358,65,32,23,23,31,39
+[2],,,,Carvanha,31,Crunch,Take Down,Scary Face,Screech,584,68,60,17,49,17,40
+Team Aqua Grunt [2],620,Aqua Hideout,B1F West,Poochyena,31,Swagger,Roar,Scary Face,Odor Sleuth,364,62,39,23,23,23,28
+[2],,,,Zubat,31,Air Cutter,Wing Attack,Bite,Confuse Ray,358,65,32,23,23,31,39
+Team Aqua Grunt,640,Aqua Hideout,B2F,Carvanha,32,Scary Face,Crunch,Screech,Take Down,603,70,62,18,46,17,41
+Team Aqua Grunt,640,Aqua Hideout,The Worst Sentry,Zubat,32,Bite,Wing Attack,Confuse Ray,Air Cutter,370,67,33,24,24,33,40
+Team Aqua Grunt [2],640,Aqua Hideout,B2F,Zubat,32,Air Cutter,Wing Attack,Bite,Confuse Ray,370,67,29,29,24,30,40
+Team Aqua Grunt [2],640,Aqua Hideout,B2F,Carvanha,32,Crunch,Take Down,Scary Face,Screech,602,70,62,18,46,17,41
+Aqua Admin Matt,1360,Aqua Hideout,B2F,Mightyena,34,Swagger,Roar,Scary Face,Odor Sleuth,932,93,61,59,47,47,54
+,,,,Golbat,34,Wing Attack,Bite,Astonish,Confuse Ray,1245,97,61,54,51,58,68
+Swimmer Grace [2],272,Route 124,,Marill,34,Water Gun,Rollout,Bubblebeam,Double-Edge,422,91,16,39,19,39,32
+Swimmer Declan [2],272,Route 124,,Gyarados,34,Thrash,Bite,Dragon Rage,Leer,1558,108,90,63,45,65,60
+Swimmer Spencer,264,Route 124,,Tentacool,33,Constrict,Acid,Bubblebeam,Wrap,742,69,34,28,38,71,45
+,,,,Wingull,33,Supersonic,Wing Attack,Mist,Quick Attack,452,69,24,24,45,21,61
+Sis and Bro Lila & Roy [2],792,Route 124,,Chinchou,34,Flail,Water Gun,Spark,Confuse Ray,654,95,33,27,43,43,50
+[2],,,,Carvanha,33,Scary Face,Crunch,Screech,Take Down,622,72,64,16,47,19,47
+Swimmer Jenny,272,Route 124,,Wailmer,34,Whirlpool,Astonish,Water Pulse,Mist,998,132,52,28,52,28,45
+Swimmer Chad,264,Route 124,,Tentacool,33,Constrict,Acid,Bubblebeam,Wrap,742,69,27,28,38,78,51
+,,,,Wailmer,33,Whirlpool,Astonish,Water Pulse,Mist,968,128,56,28,45,28,44
+Triathlete Isabella [2],1360,Route 124,,Staryu,34,Camouflage,Swift,Bubblebeam,Minimize,772,64,35,46,52,37,62
+Swimmer Roland [2],272,Route 124,,Carvanha,34,Scary Face,Crunch,Screech,Take Down,640,74,72,18,49,18,44
+Sailor Ernest ,1056,Route 125,,Wingull,33,Supersonic,Wing Attack,Mist,Quick Attack,452,69,24,24,41,24,61
+,,,,Machoke,33,Seismic Toss,Foresight,Revenge,Vital Throw,1032,95,71,51,34,48,34
+Swimmer Nolen,272,Route 125,,Tentacruel,34,Constrict,Acid,Bubblebeam,Wrap,1493,98,52,49,59,86,73
+Sr. and Jr. Kim & Iris [2],1120,Route 125,,Swablu,32,Sing,Fury Attack,Safeguard,Aerial Ace,506,70,33,43,30,53,33
+[2],,,,Numel,35,Flamethrower,Take Down,Rest,Earthquake,660,87,47,36,50,36,26
+Swimmer Tanya,272,Route 125,,Luvdisc,34,Water Gun,Agility,Take Down,Attract,801,73,25,42,32,49,70
+Swimmer Stan,272,Route 125,,Horsea,34,Smokescreen,Leer,Water Gun,Twister,604,64,32,46,57,22,45
+Bird Keeper Presley [2],1056,Route 125,,Tropius,33,Stomp,Sweet Scent,Whirlwind,Magical Leaf,1194,108,49,59,52,62,38
+[2],,,,Xatu,33,Peck,Leer,Night Shade,Teleport,1208,85,48,51,73,51,67
+Expert Auron [2],1320,Route 125,,Manectric,33,Quick Attack,Spark,Odor Sleuth,Roar,1188,89,48,44,81,44,74
+[2],,,,Machamp,33,Seismic Toss,Foresight,Revenge,Vital Throw,1364,102,99,51,47,61,41
+Swimmer Sharon,272,Route 125,,Seaking,34,Supersonic,Horn Attack,Flail,Fury Attack,1238,98,67,49,49,59,51
+Psychic Preston [2],864,Mossdeep Gym,Southwest Room,Kirlia,36,Teleport,Calm Mind,Psychic,Imprison,1080,77,34,30,56,52,45
+Psychic Maura [2],864,Mossdeep Gym,Southwest Room,Kadabra,36,Recover,Future Sight,Role Play,Psychic,1118,79,34,30,95,53,92
+Psychic Samantha [2],864,Mossdeep Gym,West-Cental Room,Xatu,36,Night Shade,Teleport,Wish,Future Sight,1318,97,56,59,77,64,77
+Psychic Blake [2],864,Mossdeep Gym,West-Cental Room,Girafarig,36,Confusion,Stomp,Odor Sleuth,Agility,1148,100,72,56,74,56,63
+Hex Maniac Kathleen [2],864,Mossdeep Gym,Southeast Room,Kadabra,36,Recover,Future Sight,Role Play,Psychic,1118,79,34,30,104,53,84
+Psychic Nicholas [2],864,Mossdeep Gym,Southeast Room,Wobbuffet,36,Counter,Mirror Coat,Safeguard,Destiny Bond,1364,182,28,46,30,41,28
+Psychic Macey [2],864,Mossdeep Gym,Southeast Room,Natu,36,Night Shade,Teleport,Wish,Future Sight,562,74,41,40,55,37,49
+Gentleman Clifford [2],2880,Mossdeep Gym,Southeast Room,Girafarig,36,Confusion,Stomp,Odor Sleuth,Agility,1148,96,68,51,69,51,59
+Gentleman Nate [2],2880,Mossdeep Gym,Northwest Room,Spoink,36,Psych Up,Confuse Ray,Magic Coat,Psychic,686,93,24,34,64,66,52
+Psychic Virgil [2],864,Mossdeep Gym,Northwest Room,Ralts,36,Calm Mind,Psychic,Imprison,Future Sight,540,70,27,27,45,30,38
+Hex Maniac Sylvia [2],864,Mossdeep Gym,Northwest Room,Meditite,36,Hidden Power,Mind Reader,Calm Mind,Hi Jump Kick,702,71,38,52,38,48,46
+Psychic Hannah [2],864,Mossdeep Gym,Northwest Room,Kirlia,36,Teleport,Calm Mind,Psychic,Imprison,1080,77,34,34,50,52,45
+Leader Tate&Liza [2],8400,Mossdeep Gym,,Claydol,41,Earthquake,Ancientpower,Psychic,Light Screen,1660,112,74,113,74,103,78
+[2],,,,Xatu,41,Psychic,Sunny Day,Confuse Ray,Calm Mind,1502,116,78,74,95,74,95
+[2],,,,Lunatone,42,Psychic,Hypnosis,Calm Mind,Light Screen,1350,123,63,79,87,89,76
+[2],,,Mind Badge,Solrock,42,Solarbeam,Psychic,Flamethrower,Sunny Day,1350,123,87,89,69,72,76
+Team Magma Grunt,620,Space Center,1F,Zubat,31,Bite,Wing Attack,Confuse Ray,Air Cutter,358,65,28,28,23,29,39
+,,,,Poochyena,31,Odor Sleuth,Roar,Swagger,Scary Face,365,62,39,23,23,25,26
+Team Magma Grunt,640,Space Center,1F,Numel,32,Magnitude,Focus Energy,Take Down,Amnesia,603,80,43,27,50,33,27
+Team Magma Grunt,640,Space Center,1F,Baltoy,32,Selfdestruct,Ancientpower,Rock Tomb,Sandstorm,397,67,30,40,33,49,36
+Team Magma Grunt ,600,Space Center,1F,Mightyena,26,Bite,Sand-Attack,Roar,Odor Sleuth,713,72,56,41,36,36,36
+,,,,Mightyena,28,Bite,Swagger,Roar,Odor Sleuth,768,77,55,44,38,38,44
+,,,,Numel,30,Magnitude,Take Down,Ember,Focus Energy,565,76,41,29,39,35,26
+Team Magma Grunt,640,Space Center,2F,Zubat,32,Air Cutter,Wing Attack,Bite,Confuse Ray,370,67,33,24,24,33,40
+Team Magma Grunt,640,Space Center,2F,Mightyena,32,Swagger,Scary Face,Roar,Odor Sleuth,877,86,68,49,43,43,44
+Team Magma Grunt,640,Space Center,2F,Baltoy,32,Selfdestruct,Ancientpower,Rock Tomb,Sandstorm,397,67,30,40,33,49,36
+Magma Admin Tabitha [2],5120,Space Center,2F,Camerupt,36,Rock Slide,Take Down,Amnesia,Focus Energy,675,100,81,59,84,63,38
+[2],,,(Tabitha's),Mightyena,38,Take Down,Swagger,Scary Face,Taunt,520,105,77,68,49,55,62
+[2],,,,Golbat,40,Air Cutter,Wing Attack,Bite,Confuse Ray,732,114,73,65,61,69,81
+Magma Leader Maxie [2],0,Space Center,2F,Mightyena,42,Take Down,Swagger,Roar,Scary Face,576,105,77,68,49,55,62
+[2],,,(Maxie's),Camerupt,44,Earthquake,Take Down,Rock Slide,Amnesia,825,123,110,74,94,78,48
+[2],,,,Crobat,43,Air Cutter,Wing Attack,Confuse Ray,Mean Look,939,133,99,72,72,81,124
+Bird Keeper Aidan [2],1024,Route 127,Left Side Island,Swellow,32,Quick Attack,Wing Attack,Double Team,Endeavour,1110,80,59,43,37,37,85
+[2],,,,Skarmory,32,Agility,Fury Attack,Air Cutter,Steel Wing,1152,83,56,103,27,49,49
+Cooltrainer Athena [2],1536,Route 127,Left Side Island,Manectric,32,Thunder,Thunder Wave,Quick Attack,,1152,90,50,47,76,51,76
+[2],,,,Linoone,32,Surf,Thief,,,876,95,58,42,40,47,72
+Swimmer Leonardo [2],272,Route 126,North,Carvanha,34,Scary Face,Crunch,Screech,Take Down,640,74,72,18,49,16,49
+Triathlete Isobel [2],1360,Route 126,North,Staryu,34,Camouflage,Swift,Bubblebeam,Minimize,772,64,35,46,46,42,62
+Swimmer Dean,248,Route 126,Center North,Carvanha,31,Scary Face,Crunch,Screech,Take Down,584,68,54,18,45,17,45
+,,,,Wingull,31,Supersonic,Wing Attack,Mist,Quick Attack,425,65,23,23,35,23,62
+,,,,Carvanha,31,Scary Face,Crunch,Screech,Take Down,584,68,60,18,45,17,40
+Swimmer Nikki,264,Route 126,Center Right,Marill,33,Water Gun,Rollout,Bubblebeam,Double-Edge,410,89,16,38,18,38,34
+,,,,Spheal,33,Ice Ball,Body Slam,Aurora Beam,Hail,530,89,34,34,41,38,21
+Swimmer Barry,272,Route 126,Center South,Gyarados,34,Thrash,Bite,Dragon Rage,Leer,1559,108,90,58,45,73,60
+Swimmer Sienna [2],264,Route 126,Left South,Luvdisc,33,Water Gun,Agility,Take Down,Attract,776,71,21,41,34,47,69
+[2],,,,Luvdisc,33,Water Gun,Agility,Take Down,Attract,776,71,21,41,31,47,75
+Triathlete Pablo [2],1320,Route 126,Left South,Staryu,33,Camouflage,Swift,Bubblebeam,Minimize,748,62,34,41,51,41,61
+[2],,,,Staryu,33,Camouflage,Swift,Bubblebeam,Minimize,748,62,34,41,45,41,67
+Swimmer Brenda,272,Route 126,Dive to Left Corner,Goldeen,34,Supersonic,Horn Attack,Flail,Fury Attack,808,74,50,45,28,35,51
+Triathlete Donny,1320,Route 127,Left Side Surf,Wingull,26,Water Gun,Supersonic,Wing Attack,Mist,356,56,20,22,33,20,44
+,,,,Staryu,34,Camouflage,Swift,Bubblebeam,Minimize,772,70,42,48,59,43,75
+Cooltrainer Alexa ,1632,Route 128,,Gloom,34,Poisonpowder,Stun Spore,Sleep Powder,Acid,961,88,47,56,66,60,39
+,,,,Azumarill,34,Water Gun,Rollout,Bubblebeam,Double-Edge,1114,116,38,63,43,69,43
+Trialthete Isaiah,1400,Route 128,South of SC,Staryu,35,Camouflage,Swift,Bubblebeam,Minimize,795,66,36,47,54,38,64
+Team Aqua Grunt,720,Seafloor Cavern,Entrance Center,Poochyena,36,Roar,Swagger,Scary Face,Take Down,424,71,48,30,26,26,27
+Team Aqua Grunt,720,Seafloor Cavern,Entrance Right,Carvanha,36,Scary Face,Crunch,Screech,Take Down,678,78,69,20,51,19,45
+Team Aqua Grunt [2],720,Seafloor Cavern,See Maps,Zubat,36,Wing Attack,Confuse Ray,Air Cutter,Mean Look,416,74,37,27,26,36,44
+Team Aqua Grunt [2],720,Seafloor Cavern,,Carvanha,36,Scary Face,Crunch,Screech,Take Down,678,78,69,17,56,19,51
+Team Aqua Grunt [2],700,Seafloor Cavern,Room 7,Mightyena,35,Odor Sleuth,Roar,Swagger,Scary Face,960,96,77,56,49,49,50
+[2],,,,Golbat,35,Bite,Wing Attack,Confuse Ray,Air Cutter,1282,99,63,56,52,59,70
+Aqua Admin Shelly [2],1480,Seafloor Cavern,Room 7,Sharpedo,37,Scary Face,Crunch,Screech,Slash,1386,103,98,35,79,42,79
+[2],,,,Mightyena,37,Roar,Swagger,Scary Face,Take Down,1014,103,76,67,53,47,61
+Aqua Leader Archie ,3440,Seafloor Cavern,Deepest Room,Mightyena,41,Take Down,Swagger,Roar,Scary Face,1124,115,94,69,61,61,62
+,,,,Crobat,41,Air Cutter,Wing Attack,Bite,Confuse Ray,1792,128,86,77,69,77,118
+,,,,Sharpedo,43,Slash,Swagger,Taunt,Screech,1612,120,115,42,103,47,94
+Swimmer Reed ,264,Route 129,Center,Spheal,33,Ice Ball,Body Slam,Aurora Beam,Hail,530,89,34,38,41,34,21
+,,,,Sharpedo,33,Scary Face,Crunch,Screech,Slash,1237,89,92,31,67,27,67
+Triathlete Chase ,1360,Route 129,,Wingull,26,Water Gun,Supersonic,Wing Attack,Mist,356,56,20,22,33,20,44
+,,,,Staryu,34,Camouflage,Swift,Bubblebeam,Minimize,772,67,38,45,49,49,65
+Triathlete Allison ,1320,Route 129,,Wingull,27,Water Gun,Supersonic,Wing Attack,Mist,370,58,21,21,34,21,50
+,,,,Staryu,33,Camouflage,Swift,Bubblebeam,Minimize,749,72,44,50,54,55,70
+Swimmer Clarence [2],272,Route 129,,Sharpedo,34,Scary Face,Crunch,Screech,Slash,1274,91,86,32,69,32,69
+Swimmer Tisha [2],272,Route 129,,Chinchou,34,Flail,Water Gun,Spark,Confuse Ray,654,95,30,30,43,43,50
+Swimmer Rodney,272,Route 130,,Gyarados,34,Thrash,Bite,Dragon Rage,Leer,1559,108,90,52,45,73,66
+Swimmer Katie [2],264,Route 130,,Goldeen,33,Supersonic,Horn Attack,Flail,Fury Attack,784,72,44,44,28,38,50
+[2],,,,Spheal,33,Ice Ball,Body Slam,Aurora Beam,Hail,530,89,34,38,36,38,21
+Swimmer Santiago [2],264,Route 130,,Tentacruel,33,Constrict,Acid,Bubblebeam,Wrap,1448,95,56,47,57,75,71
+[2],,,,Wailmer,33,Whirlpool,Astonish,Water Pulse,Mist,968,128,51,25,51,30,44
+Swimmer Kevin [2],272,Route 131,,Spheal,34,Ice Ball,Body Slam,Aurora Beam,Hail,546,91,32,39,46,35,22
+Triathlete Taila [2],1360,Route 131,,Staryu,34,Camouflage,Swift,Bubblebeam,Minimize,772,64,38,42,46,42,62
+Swimmer Richard,272,Route 131,,Pelipper,34,Mist,Protect,Stockpile,Swallow,1194,84,39,73,62,52,49
+Swimmer Kara,272,Route 131,,Seaking,34,Supersonic,Horn Attack,Flail,Fury Attack,1238,98,73,49,44,59,51
+Swimmer Susie,272,Route 131,,Luvdisc,34,Water Gun,Agility,Take Down,Attract,801,73,22,42,35,49,70
+Fisherman Ronald,1400,Route 132,Bottom-Mid Route,Magikarp,19,Splash,Tackle,,,81,36,8,25,10,12,35
+,,,,Gyarados,21,Thrash,Bite,,,963,70,57,38,27,51,39
+,,,,Gyarados,23,Thrash,Bite,,,1054,76,62,36,32,56,42
+,,,,Gyarados,26,Thrash,Bite,Dragon Rage,,1192,85,70,46,39,51,47
+,,,,Gyarados,30,Thrash,Bite,Dragon Rage,Leer,1375,97,80,52,45,65,47
+,,,,Gyarados,35,Bite,Dragon Rage,Leer,Twister,1605,111,82,60,51,75,61
+Expert Paxton [2],1320,Route 132,,Swellow,33,Quick Attack,Wing Attack,Double Team,Endeavour,1144,82,61,44,34,38,95
+[2],,,,Breloom,33,Mega Drain,Headbutt,Mach Punch,Counter,1166,82,90,51,48,44,51
+Cooltrainer Darcy [2],1584,Route 132,,Pelipper,33,Mist,Protect,Stockpile,Swallow,1158,82,38,63,67,51,47
+[2],,,,Camerupt,33,Focus Energy,Take Down,Amnesia,Rock Slide,1236,89,71,51,74,54,31
+Expert Makayla [2],1320,Route 132,,Roselia,33,Leech Seed,Magical Leaf,Grasswhistle,Giga Drain,1074,76,48,34,71,57,42
+[2],,,,Medicham,33,Hidden Power,Mind Reader,Calm Mind,Hi Jump Kick,1080,82,44,54,44,54,57
+Cooltrainer Jonathan [2],1584,Route 132,,Kecleon,33,Fury Swipes,Psybeam,Screech,Slash,932,82,64,51,44,75,34
+[2],,,,Loudred,33,Astonish,Howl,Supersonic,Stomp,890,98,56,29,51,33,36
+Cooltrainer Warren ,1584,Route 133,,Graveler,33,Rock Throw,Magnitude,Selfdestruct,Rollout,947,83,71,84,38,38,32
+,,,Fly To Pacifidlog,Ludicolo,33,Astonish,Growl,Absorb,Nature Power,1279,99,55,55,68,74,55
+Swimmer Debra [2],272,Route 133,Bottom Path,Seaking,34,Supersonic,Horn Attack,Flail,Fury Attack,1238,98,67,49,44,59,56
+Swimmer Franklin [2],272,Route 133,,Sealeo,34,Ice Ball,Body Slam,Aurora Beam,Hail,932,105,45,52,56,52,35
+Dragon Tamer Aaron [2],1632,Route 134,,Bagon,34,Dragon Breath,Headbutt,Focus Energy,Ember,648,85,66,56,42,35,49
+Cooltrainer Marley [2],1632,Route 134,,Manectric,34,Bite,Roar,Thunder Wave,Thunderbolt,1224,102,59,56,86,61,86
+Bird Keeper Alex [2],1056,Route 134,,Natu,33,Night Shade,Teleport,Wish,Future Sight,516,75,47,40,57,40,51
+[2],,,,Swellow,33,Quick Attack,Wing Attack,Double Team,Endeavour,1144,88,67,55,43,38,93
+Sailor Kelvin [2],1056,Route 134,,Machoke,33,Seismic Toss,Foresight,Revenge,Vital Throw,1032,101,76,57,43,50,40
+[2],,,Fly To Pacifidlog,Spheal,33,Ice Ball,Body Slam,Aurora Beam,Hail,530,95,37,43,47,38,29
+Black Belt Kiyo,1088,Route 132,Top-Mid Path,Hariyama,34,Fake Out,Whirlwind,Knock Off,Smellingsalt,1340,146,90,49,39,44,43
+Expert Conor [2],1320,Route 133,,Chinchou,33,Flail,Water Gun,Spark,Confuse Ray,636,92,27,30,41,45,49
+[2],,,,Hariyama,33,Fake Out,Whirlwind,Knock Off,Smellingsalt,1300,145,92,52,39,52,45
+Expert Mollie [2],1320,Route 133,,Whiscash,33,Magnitude,Amnesia,Rest,Snore,1116,115,50,58,55,51,44
+[2],,,,Meditite,33,Hidden Power,Mind Reader,Calm Mind,Hi Jump Kick,642,70,35,49,39,49,57
+Bird Keeper Beck,1088,Route 133,,Tropius,34,Stomp,Sweet Scent,Whirlwind,Magical Leaf,1231,111,51,54,53,70,39
+Sailor Hudson,1088,Route 134,Fly to Pacifidlog,Wailmer,34,Whirlpool,Astonish,Water Pulse,Mist,998,132,52,25,57,28,45
+Swimmer Gilbert,272,Route 132,Top Path,Sharpedo,34,Scary Face,Crunch,Screech,Slash,1275,91,77,35,69,32,69
+Swimmer Dana,272,Route 132,,Azumarill,34,Water Gun,Rollout,Bubblebeam,Double-Edge,1114,112,42,53,39,59,39
+Swimmer Linda,264,Route 133,,Horsea,33,Smokescreen,Leer,Water Gun,Twister,586,62,31,56,51,21,39
+,,,,Seadra,33,Smokescreen,Leer,Water Gun,Twister,1096,79,47,60,67,34,67
+Swimmer Laurel ,264,Route 134,,Luvdisc,33,Water Gun,Agility,Take Down,Attract,777,71,24,45,31,47,62
+,,,,Luvdisc,33,Water Gun,Agility,Take Down,Attract,777,71,24,41,34,42,69
+Swimmer Jack,272,Route 134,,Gyarados,34,Thrash,Bite,Dragon Rage,Leer,1559,108,90,58,45,73,60
+Black Belt Hitoshi [2],1024,Route 134,,Machop,32,Seismic Toss,Foresight,Revenge,Vital Throw,602,88,58,41,26,29,29
+[2],,,,Machoke,32,Karate Chop,Seismic Toss,Foresight,Revenge,1000,100,76,51,44,56,41
+Batle Girl Reyna [2],792,Route 134,,Meditite,33,Hidden Power,Mind Reader,Calm Mind,Hi Jump Kick,642,64,33,38,36,43,46
+[2],,,Fly to Sootopolis,Hariyama,33,Fake Out,Whirlwind,Knock Off,Smellingsalt,1300,145,92,57,35,52,45
+Sis and Bro Reli & Ian [2],792,Route 131,Origin Cave,Azumarill,35,Water Gun,Rollout,Bubblebeam,Double-Edge,1146,115,36,61,44,61,40
+[2],,,Fly to Pacifidlog,Wingull,33,Supersonic,Wing Attack,Mist,Quick Attack,452,69,21,26,41,24,61
+Swimmer Herman,264,Route 131,,Wingull,33,Supersonic,Wing Attack,Mist,Quick Attack,452,69,24,21,41,24,67
+,,,Quaza Jesus Seq.,Tentacruel,33,Constrict,Acid,Bubblebeam,Wrap,1449,95,45,47,57,84,78
+Beauty Tiffany [2],3120,Sootopolis Gym,Left First,Carvanha,39,Crunch,Screech,Take Down,Swagger,734,88,86,25,60,22,60
+[2],,,,Sharpedo,39,Crunch,Screech,Slash,Taunt,1462,108,103,36,83,44,83
+Lass Crissy [2],624,Sootopolis Gym,,Goldeen,39,Horn Attack,Flail,Fury Attack,Waterfall,926,88,61,61,32,48,58
+[2],,,,Wailmer,39,Astonish,Water Pulse,Mist,Rest,1144,155,57,36,64,36,61
+Lady Brianna [2],8000,Sootopolis Gym,Right Second,Seaking,40,Supersonic,Horn Attack,Flail,Fury Attack,1456,121,85,64,70,68,66
+Beauty Bridget [2],3200,Sootopolis Gym,,Azumarill,40,Water Gun,Rollout,Bubblebeam,Double-Edge,1310,137,52,76,57,68,52
+Pokefan Bethany [2],3120,Sootopolis Gym,Center Third,Azurill,35,Tail Whip,Bubble,Slam,Water Gun,246,84,23,37,20,37,25
+[2],,,,Marill,37,Rollout,Bubblebeam,Double-Edge,Rain Dance,458,103,24,41,24,46,42
+[2],,,,Azumarill,39,Water Gun,Rollout,Bubblebeam,Double-Edge,1278,131,43,72,48,79,48
+Beauty Olivia [2],3120,Sootopolis Gym,,Clamperl,35,Iron Defense,Whirlpool,Rain Dance,Water Pulse,1064,73,54,74,61,47,27
+[2],,,,Corphish,37,Taunt,Crabhammer,Water Pulse,,880,83,61,57,50,35,35
+[2],,,,Lombre,39,Uproar,Fury Swipes,Fake Out,Water Pulse,1178,100,43,52,56,64,48
+Lady Daphne [2],7800,Sootopolis Gym,,Luvdisc,39,Attract,Sweet Kiss,Flail,Water Pulse,918,87,33,52,40,60,85
+[2],,,,Luvdisc,39,Attract,Safeguard,Take Down,Water Pulse,918,87,33,52,44,60,76
+Pokefan Annika [2],3120,Sootopolis Gym,,Feebas,39,Flail,Water Pulse,Return,Attract,508,69,18,25,18,52,72
+[2],,,,Feebas,39,Flail,Water Pulse,Return,Attract,508,69,18,25,17,52,79
+Lass Andrea,640,Sootopolis Gym,,Luvdisc,40,Take Down,Attract,Sweet Kiss,Flail,942,89,36,47,41,61,87
+Beauty Connie,3200,Sootopolis Gym,,Goldeen,40,Horn Attack,Flail,Fury Attack,Waterfall,951,90,56,57,37,49,66
+Leader Juan,4600,Sootopolis Gym,,Luvdisc,41,Water Pulse,Flail,Sweet Kiss,Attract,966,96,42,59,42,68,94
+,,,,Kingdra,46,Ice Beam,Water Pulse,Double Team,Rest,2040,138,106,106,106,95,106
+,,,,Sealeo,43,Aurora Beam,Water Pulse,Body Slam,Encore,1179,140,66,75,79,67,59
+,,,,Whiscash,41,Water Pulse,Earthquake,Rain Dance,Amnesia,1388,151,78,66,77,73,70
+,,,,Crawdaunt,43,Crabhammer,Water Pulse,Taunt,Leer,1483,117,129,88,82,62,62
+Fisherman Jonah,1280,Route 127,Far Right Island,Wailmer,30,Rollout,Whirlpool,Astonish,Water Pulse,880,118,51,26,47,26,36
+,,,,Tentacool,31,Constrict,Acid,Bubblebeam,Wrap,697,65,29,26,39,60,48
+,,,,Sharpedo,32,Focus Energy,Scary Face,Crunch,Screech,1200,86,81,30,65,30,65
+Fisherman Henry,1360,Route 127,Far Right Island,Carvanha,31,Scary Face,Crunch,Screech,Take Down,584,68,60,17,45,18,40
+,,,,Tentacruel,34,Constrict,Acid,Bubblebeam,Wrap,1493,98,52,44,59,94,73
+Fisherman Roger ,1400,Route 127,Far Right Island,Magikarp,15,Splash,Tackle,,,64,31,8,21,8,11,29
+,,,,Magikarp,25,Splash,Tackle,,,107,45,9,32,12,16,45
+,,,,Gyarados,35,Bite,Dragon Rage,Leer,Twister,1605,111,92,54,47,82,61
+Triathlete Camden,1360,Route 127,,Staryu,33,Camouflage,Swift,Bubblebeam,Minimize,749,62,34,41,56,41,54
+,,,,Staryu,33,Camouflage,Swift,Bubblebeam,Minimize,749,62,34,41,45,45,61
+Black Belt Koji,1088,Route 127,Giant Island South,Machoke,34,Seismic Toss,Foresight,Revenge,Vital Throw,1063,98,73,52,39,45,35
+Cooltrainer Ruben ,1632,Route 128,,Shiftry,34,Pound,Harden,Growth,Nature Power,1318,109,77,49,70,49,63
+,,,,Nosepass,34,Block,Thunder Wave,Rock Slide,Sandstorm,786,68,39,110,39,63,29
+Fisherman Wayne ,1440,Route 128,Island Near EGC,Tentacool,31,Constrict,Acid,Bubblebeam,Wrap,697,65,29,26,32,73,48
+,,,,Tentacool,31,Constrict,Acid,Bubblebeam,Wrap,697,65,26,26,36,67,52
+,,,,Wailmer,36,Whirlpool,Astonish,Water Pulse,Mist,1056,139,55,27,55,33,48
+Trialthete Katelyn,1400,Route 128,Right Center,Staryu,35,Camouflage,Swift,Bubblebeam,Minimize,795,66,32,47,54,43,64
+Swimmer Carlee [2],280,Route 128,Route to EGC,Seaking,35,Supersonic,Horn Attack,Flail,Fury Attack,1274,101,69,50,45,61,57
+Swimmer Harrison [2],280,Route 128,Route to EGC,Tentacruel,35,Constrict,Acid,Bubblebeam,Wrap,1536,101,54,50,61,89,75
+Cooltrainer Albert,2064,Victory Road,1F,Magneton,43,Sonicboom,Thunder Wave,Spark,Lock-On,1483,101,61,91,124,70,63
+,,,,Muk,43,Sludge,Minimize,Screech,Acid Armor,1446,148,110,74,66,86,53
+PKMN Trainer Wally ,2700,Victory Road,1F,Altaria,44,Dragonbreath,Aerial Ace,Dragon Dance,Safeguard,1772,127,74,92,66,105,91
+,,,,Delcatty,43,Faint Attack,Sing,Charm,Assist,1271,120,68,68,60,60,72
+,,,,Magneton,41,Tri Attack,Thunderbolt,Supersonic,Screech,1414,99,61,99,99,69,69
+,,,,Roselia,44,Magical Leaf,Giga Drain,Leech Seed,Toxic,1433,105,71,52,90,83,70
+,,,,Gardevoir,45,Psychic,Future Sight,Double Team,Calm Mind,2005,129,77,77,131,109,99
+Cooltrainer Hope,2160,Victory Road,1F,Roselia,45,Giga Drain,Ingrain,Sweet Scent,Toxic,1465,105,64,55,100,73,68
+Cooltrainer Shannon,2160,Victory Road,B1F,Claydol,45,Hyper Beam,Ancientpower,Cosmic Power,Sandstorm,1822,114,73,93,73,118,84
+Cooltrainer Samuel,2016,Victory Road,B1F,Swellow,42,Wing Attack,Double Team,Endeavour,Aerial Ace,1458,107,81,60,52,52,115
+,,,,Mawile,42,Faint Attack,Baton Pass,Crunch,Iron Defense,882,99,72,81,56,61,52
+,,,,Kadabra,42,Recover,Future Sight,Role Play,Psychic,1305,90,39,38,110,68,88
+Cooltrainer Julie,2016,Victory Road,B2F,Sandslash,42,Slash,Swift,Fury Swipes,Poison Sting,1467,120,94,102,47,56,64
+,,,,Ninetales,42,Ember,Quick Attack,Confuse Ray,Safeguard,1602,118,80,73,70,94,94
+,,,,Tropius,42,Solarbeam,Magical Leaf,Body Slam,Whirlwind,1521,140,60,79,70,91,52
+Cooltrainer Owen ,2016,Victory Road,B2F,Kecleon,42,Psybeam,Screech,Slash,Substitute,1188,107,85,68,66,99,43
+,,,,Graveler,42,Magnitude,Selfdestruct,Rollout,Rock Blast,1206,103,89,106,47,47,39
+,,,,Wailord,42,Astonish,Water Pulse,Mist,Rest,1854,199,85,42,93,47,60
+Cooltrainer Dianne [2],2064,Victory Road,B2F,Claydol,43,Skill Swap,Earthquake,,,1740,104,65,95,71,108,62
+[2],,,,Lanturn,43,Thunderbolt,Earthquake,,,1436,160,54,59,70,70,55
+Cooltrainer Felix [2],2064,Victory Road,B2F,Medicham,43,Psychic,,,,1408,104,56,62,73,61,69
+[2],,,,Claydol,43,Skill Swap,Earthquake,,,1740,104,71,85,65,108,69
+Cooltrainer Caroline,2064,Victory Road,B2F,Skarmory,43,Fury Attack,Air Cutter,Steeel Wing,Spikes,1548,114,78,143,39,70,70
+,,,,Sableye,43,Faint Attack,Knock Off,Confuse Ray,Shadow Ball,903,101,74,74,66,66,53
+Cooltrainer Vito ,2016,Victory Road,B2F,Dodrio,42,Fury Attack,Tri Attack,Rage,Uproar,1422,107,102,74,60,60,84
+,,,,Kadabra,42,Recover,Future Sight,Role Play,Psychic,1305,90,39,38,110,68,88
+,,,,Electrode,42,Spark,Selfdestruct,Rollout,Light Screen,1350,107,52,74,69,77,127
+,,,,Shiftry,42,Pound,Harden,Growth,Nature Power,1629,132,84,60,85,60,84
+Cooltrainer Mitchell [2],2064,Victory Road,B2F,Lunatone,43,Explosion,Reflect,Light Screen,Psychic,1382,113,52,54,86,85,65
+[2],,,,Solrock,43,Explosion,Reflect,Light Screen,Shadow Ball,1382,113,86,70,52,60,71
+Cooltrainer Halle [2],2064,Victory Road,B2F,Sableye,43,Faint Attack,Knock Off,Confuse Ray,Shadow Ball,902,96,75,69,60,54,48
+[2],,,,Absol,43,Swords Dance,Double Team,Slash,Future Sight,1602,108,116,50,69,56,75
+Cooltrainer Michelle ,2016,Victory Road,B2F,Torkoal,42,Protect,Flamethrower,Iron Defense,Amnesia,1449,115,81,127,81,61,28
+,,,,Ludicolo,42,Astonish,Growl,Absorb,Nature Power,1629,124,68,68,85,94,68
+,,,,Medicham,42,Mind Reader,Calm Mind,Hi Jump Kick,Psych Up,1377,107,60,80,54,73,77
+Cooltrainer Edgar,2064,Victory Road,1F,Cacturne,43,Faint Attack,Needle Arm,Ingrain,Spikes,1630,118,109,61,109,54,62
+,,,,Pelipper,43,Protect,Mist,Stockpile,Swallow,1511,109,53,96,83,63,72
+Cooltrainer Katelynn [2],2064,Victory Road,1F,Gardevoir,43,Skill Swap,Psychic,Thunderbolt,Calm Mind,1916,116,66,66,105,119,78
+[2],,,,Slaking,43,Earthquake,Shadow Ball,Aerial Ace,Brick Break,1934,187,147,96,81,66,105
+Cooltrainer Quincy [2],2064,Victory Road,1F,Slaking,43,Attract,Ice Beam,Thunderbolt,Flamethrower,1934,187,147,86,100,66,96
+[2],,,,Dusclops,43,Skill Swap,Protect,Will-o-wisp,Toxic,1648,92,77,121,54,121,31
+Elite Four Sidney ,4900,Pokemon  League,,Mightyena,46,Crunch,Double Edge,Sand-Attack,Roar,1261,134,101,83,81,66,83
+,,,,Absol,49,Aerial Ace,Rock Slide,Slash,Swords Dance,1827,137,132,85,93,78,93
+,,,,Shiftry,48,Extrasensory,Double Team,Swagger,Torment,1861,158,115,77,94,77,105
+,,,,Crawdaunt,48,Surf,Strength,Facade,Swords Dance,1656,132,147,101,105,64,72
+,,,,Cacturne,46,Faint Attack,Needle Arm,Cotton Spore,Leech Seed,1744,134,136,74,111,74,69
+Elite Four Phoebe,5100,Pokemon  League,,Dusclops,48,Shadow Punch,Protect,Confuse Ray,Curse,1841,110,94,144,77,129,43
+,,,,Dusclops,51,Ice Beam,Shadow Ball,Rock Slide,Earthquake,1956,117,92,153,73,168,46
+,,,,Sableye,50,Shadow Ball,Night Shade,Faint Attack,Double Team,1050,125,95,95,76,93,70
+,,,,Banette,49,Shadow Ball,Faint Attack,Will-o-wisp,Grudge,1879,136,118,83,101,89,83
+,,,,Banette,49,Shadow Ball,Psychic,Thunderbolt,Facade,1879,136,132,83,101,72,91
+Elite Four Glacia ,5300,Pokemon  League,,Sealeo,50,Ice Ball,Body Slam,Hail,Encore,1371,165,88,90,95,90,58
+,,,,Glalie,50,Ice Beam,Icy Wind,Crunch,Light Screen,2003,155,100,100,100,100,100
+,,,,Sealeo,52,Blizzard,Double Edge,Hail,Attract,1426,171,83,93,98,93,67
+,,,,Glalie,52,Ice Beam,Explosion,Shadow Ball,Hail,2083,160,103,92,113,103,103
+,,,,Walrein,53,Ice Beam,Surf,Body Slam,Sheer Cold,2180,196,106,116,122,104,99
+Elite Four Drake ,5500,Pokemon  League,,Shelgon,52,Rock Tomb,Double Edge,Dragon Claw,Protect,1604,145,119,124,91,72,64
+,,,,Altaria,54,Dragonbreath,Aerial Ace,Double Edge,Dragon Dance,2175,161,86,118,105,134,107
+,,,,Kingdra,53,Surf,Body Slam,Dragon Dance,Smokescreen,2350,158,121,121,121,121,111
+,,,,Flygon,53,Dragonbreath,Earthquake,Crunch,Flamethrower,2237,163,126,115,105,94,126
+,,,,Salamence,55,Dragon Claw,Rock Slide,Crunch,Flamethrower,2569,186,153,121,143,110,132
+Champion Wallace,11600,Pokemon  League,,Wailord,57,Blizzard,Double Edge,Water Spout,Rain Dance,2516,278,125,73,137,65,91
+,,,,Tentacruel,55,Ice Beam,Sludge,Hydro Pump,Toxic,2416,170,99,93,110,169,118
+,,,,Milotic,58,Ice Beam,Surf,Toxic,Recover,2647,196,92,102,138,183,116
+,,,,Gyarados,56,Surf,Hyper Beam,Earthquake,Dragon Dance,2568,189,162,110,97,120,113
+,,,,Ludicolo,56,Giga Drain,Surf,Double Team,Leech Seed,2172,172,100,100,123,134,100
+,,,,Whiscash,56,Surf,Hyper Beam,Earthquake,Amnesia,1896,206,109,104,107,111,80
+School Kid Paul,300,Trick House,Puzzle 2,Numel,15,Growl,Tackle,Ember,,282,43,20,17,24,19,15
+,,,,Oddish,15,Absorb,Sweet Scent,Poisonpowder,,250,38,20,23,27,21,14
+,,,Right Tree,Wingull,15,Growl,Water Gun,Supersonic,Wing Attack,205,37,14,14,18,15,30
+School Kid Georgia,320,Trick House,Puzzle 2,Shroomish,16,Tackle,Stun Spore,Leech Seed,Mega Drain,222,45,17,24,18,24,14
+,,,,Beautifly,16,Absorb,Gust,,,552,45,29,18,33,21,25
+School Kid Ted,340,Trick House,Puzzle 2,Ralts,17,Growl,Confusion,Double Team,Teleport,255,36,13,14,18,17,18
+Camper Justin,384,Trick House,Puzzle 3,Kecleon,24,Faint Attack,Fury Swipes,Psybeam,Screech,678,62,48,38,36,62,21
+Picknicker Martha,368,Trick House,Puzzle 3,Skitty,23,Attract,Sing,Doubleslap,Assist,320,56,27,25,21,21,25
+,,,,Swablu,23,Astonish,Sing,Fury Attack,Safeguard,364,53,25,32,20,39,28
+Hiker Alan,880,Trick House,Puzzle 3,Geodude,22,Mud Sport,Rock Throw,Magnitude,Selfdestruct,405,49,40,44,18,19,13
+,,,,Nosepass,22,Harden,Rock Throw,Block,Thunder Wave,509,45,26,64,24,39,18
+,,,Drawers,Graveler,22,Mud Sport,Rock Throw,Magnitude,Selfdestruct,631,56,46,55,26,24,18
+Black Belt Yuji,832,Trick House,Puzzle 4,Makuhita,26,Arm Thrust,Vital Throw,Fake Out,Whirlwind,484,76,39,23,18,25,18
+,,,Left Window,Machoke,26,Karate Chop,Seismic Toss,Foresight,Revenge,813,80,60,44,34,39,31
+Black Belt Cora,648,Trick House,Puzzle 4,Meditite,27,Confusion,Detect,Hidden Power,Mind Reader,526,56,29,37,31,33,40
+Battle Girl Paula,648,Trick House,Puzzle 4,Breloom,27,Leech Seed,Mega Drain,Headbutt,Mach Punch,954,72,78,51,46,36,44
+Pokemon Ranger Sophia,1824,Trick House,Puzzle 6,Swablu,38,Safeguard,Mist,Take Down,Mirror Move,602,84,37,52,33,64,49
+,,,,Roselia,38,Magical Leaf,Grasswhistle,Giga Drain,Sweet Scent,1237,88,57,41,74,68,56
+Pokemon Ranger Sebastian,1872,Trick House,Puzzle 6,Cacturne,39,Pin Missile,Ingrain,Faint Attack,Spikes,1479,105,97,59,87,54,50
+Bird Keeper Benny,1152,Trick House,Puzzle 6,Swellow,36,Quick Attack,Wing Attack,Double Team,Endeavour,1249,89,66,48,45,41,85
+,,,[5: Left Tree],Pelipper,36,Mist,Protect,Stockpile,Swallow,1265,89,41,77,72,55,45
+,,,[6: Right Cupboard],Xatu,36,Night Shade,Teleport,Wish,Future Sight,1319,92,59,55,80,55,65
+Psychic Joshua [2],984,Trick House,Puzzle 7,Kadabra,41,Recover,Future Sight,Role Play,Psychic,1272,83,33,26,113,62,91
+[2],,,Right Window,Solrock,41,Fire Spin,Psywave,Cosmic Power,Rock Slide,1316,108,90,66,50,58,62
+Hex Maniac Patricia [2],984,Trick House,Puzzle 7,Banette,41,Curse,Spite,Will-o-Wisp,Faint Attack,1572,103,99,58,73,56,58
+[2],,,,Lunatone,41,Hypnosis,Psywave,Cosmic Power,Psychic,1316,108,55,58,82,66,62
+Psychic Mariella [2],984,Trick House,Puzzle 7,Chimecho,41,Psywave,Double-Edge,Heal Bell,Safeguard,1290,104,46,62,73,77,58
+Gentleman Everett [2],3280,Trick House,Puzzle 7,Wobbuffet,41,Counter,Mirror Coat,Safeguard,Destiny Bond,1554,206,32,52,32,52,32
+Psychic Alexis,984,Trick House,Puzzle 7,Kirlia,41,Calm Mind,Psychic,Imprison,Future Sight,1230,82,33,33,63,50,41
+,,,,Xatu,41,Night Shade,Teleport,Wish,Future Sight,1502,104,66,62,82,62,82
+Psychic Alvaro,984,Trick House,Puzzle 7,Banette,41,Curse,Spite,Will-o-Wisp,Faint Attack,1572,103,89,58,73,56,63
+,,,,Kadabra,41,Recover,Future Sight,Role Play,Psychic,1273,83,29,29,103,62,100
+Cooltrainer Keira,2160,Trick House,Puzzle 8,Lairon,45,Take Down,Iron Tail,Protect,Metal Sound,1465,114,91,136,55,55,46
+,,,,Manectric,45,Odor Sleuth,Roar,Bite,Thunder,1620,123,84,64,93,64,104
+Cooltrainer Vincent,2112,Trick House,Puzzle 8,Sableye,44,Faint Attack,Knock Off,Confuse Ray,Shadow Ball,924,103,76,68,67,73,54
+,,,,Sharpedo,44,Screech,Slash,Taunt,Swagger,1650,120,115,45,93,49,83
+,,,,Medicham,44,Mind Reader,Calm Mind,Hi Jump Kick,Psych Up,1442,112,63,76,69,68,80
+Cooltrainer Leroy,2208,Trick House,Puzzle 8,Mawile,46,Iron Defense,Stockpile,Swallow,Spit Up,966,107,79,88,67,61,56
+,,,,Starmie,46,Rapid Spin,Recover,Swift,Confuse Ray,2040,116,79,88,112,88,104
+Young Couple Lea & Jed [2],2880,S.S. Tidal,Cabin 1,Luvdisc,45,Take Down,Attract,Sweet Kiss,Flail,1060,93,32,54,41,63,92
+[2],,,,Luvdisc,45,Take Down,Attract,Sweet Kiss,Flail,1060,93,32,59,36,63,92
+Rich Boy Garret,9000,S.S. Tidal,Cabin 3,Azumarill,45,Rollout,Bubblebeam,Double-Edge,Rain Dance,1475,145,50,77,50,77,50
+Gentleman Micah,3520,S.S. Tidal,Cabin 4,Manectric,44,Spark,Odor Sleuth,Roar,Bite,1584,115,63,62,97,57,97
+,,,,Manectric,44,Spark,Odor Sleuth,Roar,Bite,1584,115,71,57,97,57,97
+Sailor Phillip,1408,S.S. Tidal,Basement,Tentacruel,44,Acid,Bubblebeam,Wrap,Barrier,1932,124,66,62,75,99,102
+,,,,Machoke,44,Foresight,Revenge,Vital Throw,Submission,1376,124,93,59,53,57,44
+Sailor Leonard,1376,S.S. Tidal,Basement,Machop,43,Vital Throw,Submission,Cross Chop,Scary Face,810,113,73,48,38,31,35
+,,,,Pelipper,43,Mist,Protect,Stockpile,Swallow,1511,104,43,100,78,65,60
+,,,(3 loops),Machoke,43,Foresight,Revenge,Vital Throw,Submission,1345,121,100,65,48,50,43
+Lady Anette Naomi,9000,S.S. Tidal,Cabin 7,Roselia,45,Giga Drain,Sweet Scent,Ingrain,Toxic,1465,105,64,50,90,90,68
+Gentleman Thomas,3600,S.S. Tidal,Cabin 6,Zangoose,45,Slash,Pursuit,Crush Claw,Taunt,1591,120,118,59,53,59,86
+Pokefan Colton,3360,S.S. Tidal,Cabin 8,Skitty,22,Assist,Charm,Faint Attack,Heal Bell,306,54,26,21,20,20,27
+,,,,Skitty,36,Assist,Charm,Faint Attack,Heal Bell,501,82,37,33,33,30,41
+,,,,Skitty,40,Assist,Charm,Faint Attack,Heal Bell,557,90,41,41,33,33,45
+,,,,Skitty,12,Assist,Charm,Faint Attack,Heal Bell,167,34,15,13,13,14,17
+,,,,Skitty,30,Assist,Charm,Faint Attack,Heal Bell,417,70,32,28,26,26,38
+,,,,Delcatty,42,Assist,Charm,Faint Attack,Heal Bell,1242,110,59,59,51,51,63
+Triathlete Kyra,1040,Route 115 Island,,Doduo,26,Pursuit,Fury Attack,Tri Attack,Rage,534,54,49,28,20,25,44
+,,,,Dodrio,26,Pursuit,Fury Attack,Tri Attack,Rage,880,67,68,41,32,36,57
+Black Belt Koichi,896,Route 115 Island,,Machop,24,Focus Energy,Karate Chop,Seismic Toss,Foresight,452,70,46,31,26,21,24
+,,,,Machoke,28,Karate Chop,Seismic Toss,Foresight,Revenge,876,87,66,49,38,43,35
+Ninja Boy Jaiden [2],312,Route 115 Island,,Ninjask,26,Double Team,Fury Cutter,Screech,Swords Dance,862,67,45,28,31,34,88
+[2],,,,Gulpin,26,Poison Gas,Sludge,Amnesia,Encore,416,72,27,32,29,28,25
+Expert Timothy [2],1080,Route 115 Island,,Hariyama,27,Arm Thrust,Vital Throw,Fake Out,Whirlwind,1064,121,76,43,36,43,34
+Battle Girl Helene [2],624,Route 115 Island,Top,Meditite,26,Confusion,Detect,Hidden Power,Mind Reader,506,51,25,33,22,36,36
+[2],,,,Makuhita,26,Arm Thrust,Vital Throw,Fake Out,Whirlwind,484,73,32,20,15,22,18
+Psychic Alix [2],624,Route 115 Island,Top,Kadabra,26,Disable,Psybeam,Reflect,Recover,806,56,23,20,67,41,59
+[2],,,,Kirlia,26,Double Team,Teleport,Calm Mind,Psychic,780,55,23,20,38,36,31
+Old Couple John and Jay [2],3120,Meteor Falls,Waterfall,Medicham,39,Psychic,Fire Punch,Psych Up,Protect,1278,105,61,72,61,79,68
+[2],,,,Hariyama,39,Focus Punch,Rock Tomb,Rest,Belly Drum,1536,170,107,54,45,61,58
+Dragon Tamer Nicolas,1776,Meteor Falls,Waterfall,Altaria,37,Safeguard,Mist,Take Down,Dragonbreath,1490,106,54,76,61,95,68
+,,,,Altaria,37,Safeguard,Mist,Take Down,Dragonbreath,1490,106,67,76,61,78,68
+PKMN Trainer Steven,4680,Meteor Falls,1F Upper,Skarmory,77,Toxic,Aerial Ace,Spikes,Steel Wing,2772,210,136,244,99,136,136
+,,,,Claydol,75,Reflect,Light Screen,Ancientpower,Earthquake,3037,198,119,185,146,208,140
+,,,,Aggron,76,Thunder,Earthquake,Solarbeam,Dragon Claw,3338,215,195,302,119,107,114
+,,,,Cradily,76,Giga Drain,Ancientpower,Ingrain,Confuse Ray,3273,240,151,176,151,171,102
+,,,,Armaldo,76,Water Pulse,Aerial Ace,Ancientpower,Slash,3257,223,218,162,147,150,96
+,,,,Metagross,78,Earthquake,Psychic,Meteor Mash,Shadow Ball,3510,236,239,231,177,169,138
